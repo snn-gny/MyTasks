@@ -1,0 +1,14 @@
+package ch12_methodCreation;
+
+public class Task01 {
+    public static void main(String[] args) {
+        //task-> girilen iki sayının eşitliğini kontrol eden method create ediniz...
+
+
+
+
+
+    }//main sonu
+
+
+}

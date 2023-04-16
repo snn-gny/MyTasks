@@ -1,0 +1,13 @@
+package ch7_SwitchCase;
+
+public class Task06 {
+
+	public static void main(String[] args) {
+		// kullanicidan VIP (Very Important Person) kisaltmasinda hangi harfin anlamini
+		// istedigi soralim
+		// girilen harfin aciklamasini yazdiralim
+
+
+
+	}
+}
