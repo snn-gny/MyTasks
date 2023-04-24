@@ -2,7 +2,7 @@ package ch3_ScannerClass;
 
 import java.util.Scanner;
 
-public class Task07 {
+public class Task07copy {
 
     public static void main(String[] args) {
 
@@ -18,12 +18,12 @@ public class Task07 {
      */
 
         Scanner scn=new Scanner(System.in);
-        System.out.println("Please enter the your speed");
-        double speed=scn.nextDouble();
-        System.out.println("Please enter the distance ");
-        double distance=scn.nextDouble();
-        double duration = distance/speed;
-        System.out.println("duration: " + duration);
+        System.out.println("Bitte geben Sie Ihre Geschwindigkeit ein ");
+        double geschwindigkeit=scn.nextDouble();
+        System.out.println("Bitte geben Sie  die Entfernung ein ");
+        double entfernung=scn.nextDouble();
+        double dauer = entfernung/geschwindigkeit;
+        System.out.println("dauer: " + dauer);
     }
 
 

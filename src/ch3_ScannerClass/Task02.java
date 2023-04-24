@@ -1,5 +1,7 @@
 package ch3_ScannerClass;
 
+import java.util.Scanner;
+
 public class Task02 {
     public static void main(String[] args) {
         /*
@@ -18,7 +20,14 @@ public class Task02 {
          *
          */
 
+        Scanner scn=new Scanner(System.in);
+        System.out.println("please enter your weight grade");
+        double weight=scn.nextDouble();
+        System.out.println("please enter your length grade");
+        double length=scn.nextDouble()/100;
 
+        double BMI=weight/(length*length);
+        System.out.println("yourBMI= " + BMI);
 
 
 

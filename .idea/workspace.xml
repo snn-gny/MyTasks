@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="montag" />
+    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="montag last">
+      <change afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task07copy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/_28_Scanner7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/_28_Scanner7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/_29_Scanner9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/_29_Scanner9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/_30_Scanner8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/_30_Scanner8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators2/_01_ArithmeticOperator_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators2/_01_ArithmeticOperator_sum.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +44,8 @@
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yldzg/IdeaProjects/MyTasks/src&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yldzg/IdeaProjects/MyTasks/src&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -39,25 +57,13 @@
       <recent name="C:\Users\yldzg\IdeaProjects\MyTasks\src\ch11_break_continue" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch3_ScannerClass" />
       <recent name="ch18_PassByValue_Reference" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._25_Scanner4">
-    <configuration name="_05_create_boolean1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch2_DataTypesWrapperClasss._05_create_boolean1" />
-      <module name="MyTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch2_DataTypesWrapperClasss.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_22_Scanner1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch3_ScannerClass._22_Scanner1" />
+  <component name="RunManager" selected="Application._01_ArithmeticOperator_sum">
+    <configuration name="Task06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch3_ScannerClass.Task06" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_23_Scanner2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch3_ScannerClass._23_Scanner2" />
+    <configuration name="Task07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch3_ScannerClass.Task07" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_24_Scanner3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch3_ScannerClass._24_Scanner3" />
+    <configuration name="Task08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch3_ScannerClass.Task08" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
@@ -95,12 +101,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_25_Scanner4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch3_ScannerClass._25_Scanner4" />
+    <configuration name="Task09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch3_ScannerClass.Task09" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch3_ScannerClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01_ArithmeticOperator_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators2._01_ArithmeticOperator_sum" />
+      <module name="MyTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch5_JavaOperators2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._25_Scanner4" />
-        <item itemvalue="Application._24_Scanner3" />
-        <item itemvalue="Application._23_Scanner2" />
-        <item itemvalue="Application._22_Scanner1" />
-        <item itemvalue="Application._05_create_boolean1" />
+        <item itemvalue="Application._01_ArithmeticOperator_sum" />
+        <item itemvalue="Application.Task09" />
+        <item itemvalue="Application.Task08" />
+        <item itemvalue="Application.Task07" />
+        <item itemvalue="Application.Task06" />
       </list>
     </recent_temporary>
   </component>
@@ -148,14 +167,22 @@
       <option name="project" value="LOCAL" />
       <updated>1682336793660</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="montag last">
+      <created>1682341987102</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682341987102</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sunday" />
     <MESSAGE value="sunday son" />
     <MESSAGE value="montag" />
-    <option name="LAST_COMMIT_MESSAGE" value="montag" />
+    <MESSAGE value="montag last" />
+    <option name="LAST_COMMIT_MESSAGE" value="montag last" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -168,6 +195,42 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ch3_ScannerClass/Task01.java</url>
+          <line>5</line>
+          <properties class="ch3_ScannerClass.Task01" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ch3_ScannerClass/Task02.java</url>
+          <line>5</line>
+          <properties class="ch3_ScannerClass.Task02" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ch3_ScannerClass/Task03.java</url>
+          <line>5</line>
+          <properties class="ch3_ScannerClass.Task03" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ch3_ScannerClass/Task02.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
