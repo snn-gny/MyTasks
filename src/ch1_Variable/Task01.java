@@ -19,15 +19,18 @@ public class Task01 {
         String isim="zafer";
         int yas=33;
         double maas=15.000;
-
-        System.out.println(isim  +     " isimli personelin yasi = "+yas);//output zafer isimli personelin yasi = 33
-
+        System.out.println(isim+" isimli personelin yasi= "+yas);//output zafer isimli personelin yasi = 33
         System.out.println(isim  +     " \n isimli personelin yasi = "+yas);//output //zafer
                                                                                   //isimli personelin yasi = 33
-        //task maas ve yas i alt alta tek sout icinde print ediniz
-        System.out.println("yas = " + yas + "\n" +maas);//\n icin ayri bir  "" cift tirnak acmak ve \n i icine yazamaniz gerekir
+        //task: maas ve yas i alt alta tek sout icinde print ediniz
 
-        System.out.println("efsane \n java \n gunleri \n basladi ");
+        System.out.println("yas = " + yas +  "\n" + "maas= " +maas);//\n icin ayri bir  "" cift tirnak acmak ve \n i icine yazamaniz gerekir
+
+        System.out.println("efsane \n java \n gunleri \n basladi ");//efsane
+                                                                     //java
+                                                                       //gunleri
+                                                                       // basladi
+
 
         System.out.println(isim  +     " \n isimli personelin yasi = "+yas   + "/*     */ ");
 

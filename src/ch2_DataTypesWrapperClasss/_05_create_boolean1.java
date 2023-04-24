@@ -8,6 +8,8 @@ public class _05_create_boolean1 {
           Boolean'ı yazdırınız. */
 
         //Kodu aşağıya yazınız.
+        boolean b=true;
+        System.out.println("b = " + b);
 
     }
 }

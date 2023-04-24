@@ -8,6 +8,8 @@ public class _04_create_int4 {
           Int'i yazdırınız. */
 
         //Kodu aşağıya yazınız.
+        int sayi=-6500;
+        System.out.println("sayi = " + sayi);
 
     }
 }

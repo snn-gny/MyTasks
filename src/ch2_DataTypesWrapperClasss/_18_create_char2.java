@@ -9,6 +9,7 @@ public class _18_create_char2 {
 
         //Kodu aşağıya yazınız.
 
-
+        char z='z';
+        System.out.println("z = " + z);
     }
 }

@@ -1,5 +1,7 @@
 package ch3_ScannerClass;
 
+import java.util.Scanner;
+
 public class _26_Scanner5 {
 
     public static void main(String[] args) {
@@ -9,6 +11,11 @@ public class _26_Scanner5 {
           Bu String'i yazdırın.   */
 
         //Kodu aşağıya  yazınız.
+
+        Scanner scn=new Scanner(System.in);
+        System.out.println("10 sene önce nerde yasiyordun?");
+        String sehir=scn.next();
+
 
 
 

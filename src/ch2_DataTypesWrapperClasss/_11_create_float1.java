@@ -9,7 +9,8 @@ public class _11_create_float1 {
 
         //Kodu aşağıya yazınız.
 
-
+        float f=10f;
+        System.out.println("f = " + f);
 
     }
 }

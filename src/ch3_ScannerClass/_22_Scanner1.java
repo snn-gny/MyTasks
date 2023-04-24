@@ -1,5 +1,7 @@
 package ch3_ScannerClass;
 
+import java.util.Scanner;
+
 public class _22_Scanner1 {
 
     public static void main(String[] args) {
@@ -9,7 +11,11 @@ public class _22_Scanner1 {
           İsminizi yazdırın.  */
 
         //Kodu aşağıya  yazınız.
-
+        String s;
+        Scanner scn=new Scanner(System.in);
+        System.out.println("isminizi giriniz");
+        s= scn.next();
+        System.out.println("s = " + s);
 
 
     }

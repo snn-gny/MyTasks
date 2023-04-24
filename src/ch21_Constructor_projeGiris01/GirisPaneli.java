@@ -1,8 +1,8 @@
-package Constructor_projeGiris01;
+package ch21_Constructor_projeGiris01;
 
 import java.util.Scanner;
 
-import static ch21_Constructor.projeGiris01.KayitMethodlari.kullanicilarList;
+
 
 public class GirisPaneli {
 
@@ -23,7 +23,7 @@ public class GirisPaneli {
                     giris();
                     break;
                 case 2:
-                    obj.sansliKullanici(kullanicilarList);
+                    //obj.sansliKullanici(kullanicilarList);
                     giris();
                     break;
                 case 3:

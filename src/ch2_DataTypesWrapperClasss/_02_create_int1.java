@@ -9,6 +9,7 @@ public class _02_create_int1 {
 
         // Kodu aşağıya yazınız.
 
-
+         int sayi=15;
+        System.out.println("sayi = " + sayi);
     }
 }

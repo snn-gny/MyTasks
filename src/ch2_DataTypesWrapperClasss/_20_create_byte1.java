@@ -8,7 +8,8 @@ public class _20_create_byte1 {
           Bu byte'ı yazdırın.  */
 
         //Kodu aşağıya yazınız.
-
+        byte b=5;
+        System.out.println("b = " + b);
 
     }
 }

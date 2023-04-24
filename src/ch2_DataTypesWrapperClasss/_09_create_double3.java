@@ -9,7 +9,8 @@ public class _09_create_double3 {
 
         //Kodu aşağıya yazınız.
 
-
+        double e=10.01;
+        System.out.println("e = " + e);
 
     }
 

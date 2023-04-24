@@ -8,7 +8,8 @@ public class _03_create_int3 {
           Int'i yazdırın.  */
 
         //Kodu aşağıya yazınız.
-
+        int sayi=120;
+        System.out.println("sayi = " + sayi);
 
     }
 }
