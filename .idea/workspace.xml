@@ -4,54 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="sunday son">
-      <change afterPath="$PROJECT_DIR$/src/ch22_Task22/T01_Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch22_Task22/T01_Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch22_Task22/T02_ElektrikHesabi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch22_Task22/T02_Musteri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch22_Task22/T02_Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch22_Task22/T03_Lesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch22_Task22/T03_Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch22_Task22/T03_Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch22_Task22/T04_Bisiklet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch22_Task22/T04_Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructor_projeGiris01/GirisPaneli.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch21_Constructor_projeGiris01/GirisPaneli.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructor_projeGiris01/Kayit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch21_Constructor_projeGiris01/Kayit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructor_projeGiris01/KayitMethodlari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch21_Constructor_projeGiris01/KayitMethodlari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructor_projeGiris01/Kullanici.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch21_Constructor_projeGiris01/Kullanici.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructor_projeGiris01/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch21_Constructor_projeGiris01/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructor_projeGiris01/Task (1).txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch21_Constructor_projeGiris01/Task (1).txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructor_projeGiris01/Task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch21_Constructor_projeGiris01/Task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch1_Variable/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1_Variable/Task01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_01_create_int2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_01_create_int2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_02_create_int1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_02_create_int1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_03_create_int3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_03_create_int3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_04_create_int4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_04_create_int4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_05_create_boolean1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_05_create_boolean1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_06_create_boolean2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_06_create_boolean2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_07_create_double1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_07_create_double1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_08_create_double2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_08_create_double2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_09_create_double3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_09_create_double3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_10_create_double4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_10_create_double4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_11_create_float1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_11_create_float1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_12_create_float2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_12_create_float2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_13_create_float3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_13_create_float3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_14_create_short1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_14_create_short1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_15_create_short2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_15_create_short2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_16_create_short3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_16_create_short3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_17_create_char1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_17_create_char1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_18_create_char2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_18_create_char2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_19_create_char3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_19_create_char3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_20_create_byte1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_20_create_byte1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_21_create_byte2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2_DataTypesWrapperClasss/_21_create_byte2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/_22_Scanner1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/_22_Scanner1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/_23_Scanner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/_23_Scanner2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/_24_Scanner3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/_24_Scanner3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/_25_Scanner4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/_25_Scanner4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/_26_Scanner5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/_26_Scanner5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/haftaninTaskleri/T07_RomaRakamlari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/haftaninTaskleri/T07_RomaRakamlari.java" afterDir="false" />
-    </list>
+    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="montag" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,13 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681641544514</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="montag">
+      <created>1682336793660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682336793660</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sunday" />
     <MESSAGE value="sunday son" />
-    <option name="LAST_COMMIT_MESSAGE" value="sunday son" />
+    <MESSAGE value="montag" />
+    <option name="LAST_COMMIT_MESSAGE" value="montag" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
