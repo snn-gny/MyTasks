@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="montag last">
-      <change afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task07copy.java" afterDir="false" />
+    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="montag last version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/Task10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/_28_Scanner7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/_28_Scanner7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/_29_Scanner9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/_29_Scanner9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3_ScannerClass/_30_Scanner8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3_ScannerClass/_30_Scanner8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators2/_01_ArithmeticOperator_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators2/_01_ArithmeticOperator_sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682341987102</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="montag last version">
+      <created>1682349467423</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682349467423</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -182,7 +174,8 @@
     <MESSAGE value="sunday son" />
     <MESSAGE value="montag" />
     <MESSAGE value="montag last" />
-    <option name="LAST_COMMIT_MESSAGE" value="montag last" />
+    <MESSAGE value="montag last version" />
+    <option name="LAST_COMMIT_MESSAGE" value="montag last version" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
