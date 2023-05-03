@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="dienstag" />
+    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="mittwoch">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task01/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task01/Ogrenci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task01/Okul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task01/Okul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task01/OkulMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task01/OkulMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task02/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task02/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task02/Banka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task02/Banka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task03/Task03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task03/Task03.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task06/Task06_a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task06/Task06_a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task08/Task08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task08/Task08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/soru" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/soru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch34_Iterators/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch34_Iterators/Task02.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,15 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/yldzg/IdeaProjects/MyTasks/src/ch34_Iterators",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yldzg/IdeaProjects/MyTasks/src/ch34_Iterators&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yldzg\IdeaProjects\MyTasks\src\ch34_Iterators" />
@@ -44,13 +56,13 @@
       <recent name="ch18_PassByValue_Reference" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._01_ArithmeticOperator_sum">
-    <configuration name="Task06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch3_ScannerClass.Task06" />
+  <component name="RunManager" selected="Application.Task06_a">
+    <configuration name="Banka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch28_ExceptionHandling.task28.task02.Banka" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch3_ScannerClass.*" />
+          <option name="PATTERN" value="ch28_ExceptionHandling.task28.task02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch3_ScannerClass.Task07" />
+    <configuration name="OkulMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch28_ExceptionHandling.task28.task01.OkulMain" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch3_ScannerClass.*" />
+          <option name="PATTERN" value="ch28_ExceptionHandling.task28.task01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch3_ScannerClass.Task08" />
+    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch34_Iterators.Task02" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch3_ScannerClass.*" />
+          <option name="PATTERN" value="ch34_Iterators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch3_ScannerClass.Task09" />
+    <configuration name="Task06_a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch28_ExceptionHandling.task28.task06.Task06_a" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch3_ScannerClass.*" />
+          <option name="PATTERN" value="ch28_ExceptionHandling.task28.task06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task06_a" />
+        <item itemvalue="Application.Banka" />
+        <item itemvalue="Application.OkulMain" />
+        <item itemvalue="Application.Task02" />
         <item itemvalue="Application._01_ArithmeticOperator_sum" />
-        <item itemvalue="Application.Task09" />
-        <item itemvalue="Application.Task08" />
-        <item itemvalue="Application.Task07" />
-        <item itemvalue="Application.Task06" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683053233767</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="mittwoch">
+      <created>1683097605441</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683097605441</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -181,7 +200,8 @@
     <MESSAGE value="montag last" />
     <MESSAGE value="montag last version" />
     <MESSAGE value="dienstag" />
-    <option name="LAST_COMMIT_MESSAGE" value="dienstag" />
+    <MESSAGE value="mittwoch" />
+    <option name="LAST_COMMIT_MESSAGE" value="mittwoch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

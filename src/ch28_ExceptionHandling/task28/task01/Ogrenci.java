@@ -12,6 +12,49 @@ public class Ogrenci {
     //     ekleyiniz.Fakat oluşturacağınız öğrencilerin yaşı 15 i geçmemeli.
     //     bu yaşı geçen bir öğrenci eklenmek istenir ise yerine başka öğrenci isteyiniz.
 
+       private String ad;
+       private String soyad;
+       private int yas;
 
+    public Ogrenci() {
+    }
 
+    public Ogrenci(String ad, String soyad, int yas) {
+        this.ad = ad;
+        this.soyad = soyad;
+        this.yas = yas;
+    }
+
+    public String getAd() {
+        return ad;
+    }
+
+    public void setAd(String ad) {
+        this.ad = ad;
+    }
+
+    public String getSoyad() {
+        return soyad;
+    }
+
+    public void setSoyad(String soyad) {
+        this.soyad = soyad;
+    }
+
+    public int getYas() {
+        return yas;
+    }
+
+    public void setYas(int yas) {
+        this.yas = yas;
+    }
+
+    @Override
+    public String toString() {
+        return "Ogrenci{" +
+                "ad='" + ad + '\'' +
+                ", soyad='" + soyad + '\'' +
+                ", yas=" + yas +
+                '}';
+    }
 }
