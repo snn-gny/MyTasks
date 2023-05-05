@@ -15,10 +15,14 @@ public abstract class BinekOto {
     // istenirse yapılmayabilir.
 
     public int getUretimYili() {
+
         return this.uretimYili;
     }
 
     public void setUretimYili(int uretimYili) {
         this.uretimYili = uretimYili;
     }
+
+
+
 }

@@ -15,7 +15,7 @@ public class DemoAnimal {
          /*
         Bu kod, bu tür alt sınıfların, üst sınıfın bir dizi referansı ile aynı şekilde kullanılabileceğini gösterir.
         Yani, animals dizisi hem Dog, Cat ve Horse sınıflarından türetilen nesneleri içerebilir ve bu nesneleri aynı
-         şekilde davranırken kullanılabilir. Bu da polimorfizm kavramının bir örneğidir.
+         şekilde davranırken kullanılabilir. Bu da polymorphism kavramının bir örneğidir.
          */
 
         for (Animal each :animals  ) {

@@ -1,6 +1,6 @@
 package ch32_Abstract.task32.Ornek1;
 
-public class OtoMain {
+public class  OtoMain {
     public static void main(String[] args) {
         Ford ford1 = new Ford();
         ford1.setUretimYili(2020);

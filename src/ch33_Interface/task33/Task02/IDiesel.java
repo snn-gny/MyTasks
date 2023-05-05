@@ -1,6 +1,7 @@
-package ch33_Interface.task33.Task02;
+    package ch33_Interface.task33.Task02;
 
-public interface IDiesel {
+    public interface IDiesel extends IVehicle{
 
+    abstract void changeDiesel();
 
 }

@@ -1,0 +1,12 @@
+
+            Task 7
+    1. Animal,Flying ve Sailling adinda birer Interface olusturun ve
+        1.a.Animal i, Flying ve Sailling in parent Interface i yapin.
+        1.b. Animal Interface inde String return type li food adli bir method creat edin.
+
+    2.  Cat adinda bir class creat edin ve Animal i Implement etsin.
+    3.  Duck adinda bir class creat edin ve bunu Sailling e implement edin.
+    4.  Shark adinda bir class creat edin ve bunu Sailling e implement edin.
+    5.  Swallow adinda bir class creat edin ve bunu Flying e implement edin.
+    6.  Main adinda bir class creat edin ve burada Swallow Class indan obje creat edin
+     ve food methodunu cagirin.

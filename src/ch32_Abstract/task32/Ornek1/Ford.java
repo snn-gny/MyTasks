@@ -3,10 +3,11 @@ package ch32_Abstract.task32.Ornek1;
 public class Ford extends BinekOto {
 
     //abstract metod olduğundan zorunlu olarak
-    // yazılmak zorunda (imlemente edildi.)
+    // yazılmak zorunda (implemente edildi.)
 
     @Override
     public String getMarka() {
+
         return "Ford Focus";
     }
 
@@ -19,4 +20,5 @@ public class Ford extends BinekOto {
         System.out.println(super.getUretimYili());
         return super.getUretimYili();
     }
+
 }

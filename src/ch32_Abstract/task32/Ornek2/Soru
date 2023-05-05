@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+
+
+        Abstract bir Hayvan classi olusturunuz.fieldlari (String) isim, (boolean) vahsi,
+        (LocalDate) dogumTarihi  ve (int) id olsun.
+
+        yiyecegi(),yemekMiktari(),gunlukUykuSuresi(),sesi() isminde abstract metod create ediniz
+
+        Ayrica kedi ve kartal isminde iki tane child class olusturunuz
+
+        Hayvanat bahcesi isminde bir runner class olusturup kedi ve kartal objeleri olusturunuz
+
+        Olusturdugunuz iki farkli hayvan icin özellikler atayiniz
+
+        Her bir hayvan icin bir id no olusturunuz

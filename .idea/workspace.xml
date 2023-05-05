@@ -4,18 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="mittwoch">
+    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="mittwoch second">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task01/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task01/Ogrenci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task01/Okul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task01/Okul.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task01/OkulMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task01/OkulMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task02/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task02/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task02/Banka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task02/Banka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task03/Task03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task03/Task03.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task06/Task06_a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task06/Task06_a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task08/Task08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task08/Task08.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/soru" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/soru" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch34_Iterators/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch34_Iterators/Task02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task07/Task07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task07/Task07.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task07/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task07/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/DemoAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/DemoAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/taskDescription" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/taskDescription" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IDiesel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IDiesel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IElectric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IElectric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IGas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IGas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/OtoGaleri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/OtoGaleri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/TeslaCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/TeslaCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/ToyotaPrius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/ToyotaPrius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task03/task" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task03/task" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task04/task" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task04/task" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Cember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Cember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Dikdortgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Dikdortgen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Kare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Kare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Sekil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Sekil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +70,26 @@
       <recent name="ch18_PassByValue_Reference" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task06_a">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Banka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch28_ExceptionHandling.task28.task02.Banka" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch28_ExceptionHandling.task28.task02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch33_Interface.task33.Task03.Main" />
+      <module name="MyTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch33_Interface.task33.Task03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch34_Iterators.Task02" />
+    <configuration name="OtoGaleri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch33_Interface.task33.Task02.OtoGaleri" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch34_Iterators.*" />
+          <option name="PATTERN" value="ch33_Interface.task33.Task02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,26 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_01_ArithmeticOperator_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators2._01_ArithmeticOperator_sum" />
-      <module name="MyTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch5_JavaOperators2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.OtoGaleri" />
         <item itemvalue="Application.Task06_a" />
         <item itemvalue="Application.Banka" />
         <item itemvalue="Application.OkulMain" />
-        <item itemvalue="Application.Task02" />
-        <item itemvalue="Application._01_ArithmeticOperator_sum" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683097605441</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="mittwoch second">
+      <created>1683121681559</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683121681559</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -201,7 +222,8 @@
     <MESSAGE value="montag last version" />
     <MESSAGE value="dienstag" />
     <MESSAGE value="mittwoch" />
-    <option name="LAST_COMMIT_MESSAGE" value="mittwoch" />
+    <MESSAGE value="mittwoch second" />
+    <option name="LAST_COMMIT_MESSAGE" value="mittwoch second" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

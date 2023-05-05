@@ -1,5 +1,6 @@
-package ch33_Interface.task33.Task02;
+        package ch33_Interface.task33.Task02;
 
-public interface IElectric {
+        public interface IElectric extends IVehicle {
+        abstract void changeBattery();
 
-}
+        }

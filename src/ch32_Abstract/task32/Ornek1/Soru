@@ -1,0 +1,19 @@
+            Task1
+
+  1. BinekAuto adinda abstract bir class olusturun.
+    1.a.      private String marka;
+          private int uretimYili;
+          private int vitesAdedi;
+          encapsüle edilmis field ler olusturun.
+
+    1.c. uretimYili fiel inin getter ve setter ini //
+          marka field inin  abstract olarak getter ini olusturun.
+
+    2. Ford adinda bir class olusturunve bu class i BinekAuto ile extends edin.
+        methodlari override edin.
+
+    3. Main adinda bir class olusturun ve burada Ford Class indan bir ford1 obj. olusturun.
+       3.a.   üretim yilini set edip
+       3.b.   marka ve üretim yilini yazdirin.
+
+

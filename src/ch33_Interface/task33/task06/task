@@ -1,0 +1,14 @@
+
+                    Task 6
+    1. ReadFile adinda bir Interface olusturun.
+
+      1.a.  Burada open ,read,save ve close adinda String tipinde methodlar olusturun.
+
+
+    2. PowePointFile,TxtFile;DMGFile adinda classlar olusturup bunlari ReadFile a
+    implemet edin ve methodlari Override edin ve kisisellestirin.
+
+
+    3. FileMain adinda bir class creat edin ve burada:
+
+        3.a.TxtFile dan obje creat edip close methodunu calistirin.

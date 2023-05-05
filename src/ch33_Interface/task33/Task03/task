@@ -1,0 +1,29 @@
+        Task 3
+
+     1.   IMUHENDIS isminde bir interface olusturun
+        1.a.void askerlik_durumu_sorgula();
+
+        1.b. String mezuniyet_ortalamasi(double derece);
+
+        1.c. void adli_sicil_sorgula();
+
+        1.d. void is_tecrubesi(String[] array);
+        adinda methodlar olusturun.
+      (Interface deki is tecrübesi adinda ,parametresi String Array olan bir method creat edin)
+
+
+    2.    Pc Muhendisi adinda bir classs olusturup  Imuhendis interface ine implement ediniz.
+         2.a.   private boolean askerlik;
+            private boolean adli_sicil; seklinde field ler olusturun.
+         2.b.  tüm parametreleri alan  bir constructor create ediniz.
+         2.c.public void askerlik_durumu_sorgula() methodunda
+          askerlik durumunu kontrol ediniz.
+         2.d.   public void adli_sicil_sorgula() methodunda adli sicil kaydi olup
+         olmadigini kontrol ediniz.
+         2.e.  public String mezuniyet_ortalamasi(double derece) methodunda ortalama
+         notunu yazdirin.
+
+    3. PcMuhendisi türünde bir obje creat ediniz.
+        3.a muhendisin askerlik , sicil durumunu getirin.
+        3.b.mezuniyet ort. getirin.
+        3.c is tecrübesi methodu ile muhendis in tecrübesini yazdirin.

@@ -1,0 +1,98 @@
+                 Task 5
+
+
+
+           1. IMuhendis adinda bir Interface olusturun.Burada bir calis methodu olusturun.
+           2. IMuhendis adinda bir Interface olusturun.
+
+              2.a  Askerlik durumu,
+
+              2.b.  adli sicil  sorgulayan iki tane method olusturun.
+
+              2.c.double parametre alan  mezuniyet ortalamasi getiren bir method create edin.
+
+              2.d. String Array parametre alan bir is tecrübesi methodu  create edin.
+
+           3. MakineMühendisi adinda bir class creat edin ve IMuhendis ve ICalisma ile
+              implemet edin.
+
+              3.a. encapsule edilmis boolean türünde askerlik ve adli sicil adinda
+              field ler olusturun.
+
+              3.b.Yukaridaki field leri parametre alan bir makine muhendisi constructor olusturun.
+
+              3.c.askerlik durumu ve adli sicil sorgulama methodlarinda
+              if dongusu ile kontrol olusturun.
+
+              3.d.mezuniyet ortalamasini methodunu  override edin.
+
+              3.e.is tecrübesi methodunda tecrübesi yoksa "tecrübem yok",
+              varsa calistigi sirketleri array listten alip yazdiran code creat edin.
+
+              3.f.String Array seklinde parametre alan referans adli bir method creat et.
+              Bu methodda referansi yoksa "Herhangi bir referansım bulunmuyor.",
+              varsa calistigi sirketleri array listten alip yazdiran code creat edin.
+
+              3.g. calis methodunda calisma durumunu göster.
+
+
+         4. BilgisayarMühendisi adinda bir class creat edin ve IMuhendis  ile
+                          implemet edin.
+
+             4.a. encapsule edilmis boolean türünde askerlik ve adli sicil adinda
+                          field ler olusturun.
+
+             4.b.Yukaridaki field leri parametre alan bir makine muhendisi constructor olusturun.
+
+             4.c.askerlik durumu ve adli sicil sorgulama methodlarinda
+                          if dongusu ile kontrol olusturun.
+
+             4.d.mezuniyet ortalamasini methodunu  override edin.
+
+             4.e.is tecrübesi methodunda tecrübesi yoksa "tecrübem yok",
+                          varsa calistigi sirketleri array listten alip yazdiran code creat edin.
+
+             4.f.String Array seklinde parametre alan referans adli bir method creat et.
+                          Bu methodda referansi yoksa "Herhangi bir referansım bulunmuyor.",
+                          varsa calistigi sirketleri array listten alip yazdiran code creat edin.
+
+             4.g. calis methodunda calisma durumunu göster.
+
+
+          5. IsBasvuru adinda bir class olusturun. Bu class da :
+
+             5.a.BilgisayarMuhendisi class indan tam parametreli muhendis1  objesi olusturun.
+               ve bu mühendis1 objesinden methodlari cagirin.
+               Ve tecrübelerini Array liste ekleyin.
+
+             5.b.MakineMuhendisi class indan tam parametreli muhendis2  objesi olusturun.
+                Ve bu mühendis2 objesinden methodlari cagirin.
+                Ve referanslarini Array liste ekleyin.
+
+             5.c.IMuhendis türünde BilgisayarMühendisi ve MakineMühendisi class indan
+                  muhendis 3 ve 4  objelerini olusturun.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
