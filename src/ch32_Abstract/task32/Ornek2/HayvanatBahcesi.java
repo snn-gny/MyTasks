@@ -23,7 +23,7 @@ public class HayvanatBahcesi {
         kartal.setDogumTarih(LocalDate.of(2018, 1, 5));
         System.out.println(kartal);
 //        kartal.yiyecegi();
-//        kartal.gunlukUykuSuresi();
+       kartal.gunlukUykuSuresi();
 //        kartal.yemekMiktari();
 //        kartal.sesi();
 

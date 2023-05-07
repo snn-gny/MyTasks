@@ -21,4 +21,7 @@ public class Kartal extends Hayvan {
     void sesi() {
         System.out.println("ciyak");
     }
+
+
+
 }

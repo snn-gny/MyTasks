@@ -4,32 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="mittwoch second">
+    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="freitag erst">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task07/Task07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task07/Task07.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task07/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch28_ExceptionHandling/task28/task07/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/DemoAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/DemoAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/Horse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/taskDescription" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch31_Polymorphism/task31/taskDescription" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IDiesel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IDiesel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IElectric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IElectric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IGas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IGas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/IVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/OtoGaleri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/OtoGaleri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/TeslaCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/TeslaCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/ToyotaPrius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/ToyotaPrius.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task02/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task03/task" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task03/task" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task04/task" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task04/task" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Cember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Cember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Dikdortgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Dikdortgen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Kare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Kare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Sekil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Sekil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/Hayvan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/Hayvan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/HayvanatBahcesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/HayvanatBahcesi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/Kartal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/Kartal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/Soru" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/Soru" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,29 +28,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yldzg/IdeaProjects/MyTasks/src/ch34_Iterators&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/yldzg/IdeaProjects/MyTasks/src/ch32_Abstract/task32/Ornek1",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yldzg\IdeaProjects\MyTasks\src\ch32_Abstract\task32\Ornek1" />
       <recent name="C:\Users\yldzg\IdeaProjects\MyTasks\src\ch34_Iterators" />
       <recent name="C:\Users\yldzg\IdeaProjects\MyTasks\src\ch33_Interface" />
       <recent name="C:\Users\yldzg\IdeaProjects\MyTasks\src" />
       <recent name="C:\Users\yldzg\IdeaProjects\MyTasks\src\ch31_Polymorphism" />
-      <recent name="C:\Users\yldzg\IdeaProjects\MyTasks\src\ch28_ExceptionHandling" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ch3_ScannerClass" />
       <recent name="ch18_PassByValue_Reference" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.HayvanatBahcesi">
     <configuration name="Banka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch28_ExceptionHandling.task28.task02.Banka" />
       <module name="MyTasks" />
@@ -84,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch33_Interface.task33.Task03.Main" />
+    <configuration name="HayvanatBahcesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch32_Abstract.task32.Ornek2.HayvanatBahcesi" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch33_Interface.task33.Task03.*" />
+          <option name="PATTERN" value="ch32_Abstract.task32.Ornek2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OkulMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch28_ExceptionHandling.task28.task01.OkulMain" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch33_Interface.task33.Task03.Main" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch28_ExceptionHandling.task28.task01.*" />
+          <option name="PATTERN" value="ch33_Interface.task33.Task03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HayvanatBahcesi" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.OtoGaleri" />
         <item itemvalue="Application.Task06_a" />
         <item itemvalue="Application.Banka" />
-        <item itemvalue="Application.OkulMain" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683121681559</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="freitag erst">
+      <created>1683294205998</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683294205998</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -223,7 +210,8 @@
     <MESSAGE value="dienstag" />
     <MESSAGE value="mittwoch" />
     <MESSAGE value="mittwoch second" />
-    <option name="LAST_COMMIT_MESSAGE" value="mittwoch second" />
+    <MESSAGE value="freitag erst" />
+    <option name="LAST_COMMIT_MESSAGE" value="freitag erst" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
