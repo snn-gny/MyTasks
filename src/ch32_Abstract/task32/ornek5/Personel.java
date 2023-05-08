@@ -8,6 +8,7 @@ public abstract class Personel {
 
 
     public  void  sigorta(){//conc. meth
-        System.out.println("Agam özel sigorta kapsamındasın :) ");//conc. meth
+        System.out.println("Agam özel sigorta kapsamındasın :) ");
+        //conc. meth
     }
 }

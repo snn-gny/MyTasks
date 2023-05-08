@@ -4,10 +4,11 @@ import java.util.Scanner;
 
 public class BankingSystem {
     public static void main(String[] args) {
-        // kullanıcıya hangi bankada hesap açmak istediğini sorup bir menü ile
-        // hesabını açıınız
-        // sonra kullanıcıya yine bir menü ile para yatırma ve çekme işlemi istemiyorsa çıkış
-        // işlemi yaptırınız.
+        // kullanıcıya hangi bankada hesap açmak istediğini sorup
+        // bir menü ile hesabını açıınız
+        // sonra kullanıcıya yine bir menü ile para yatırma ve
+        // çekme işlemi
+        // istemiyorsa çıkıs işlemi yaptırınız.
         // en son bankanın bakiyesini (balance)  ını yazdırınız.
 
 
@@ -52,6 +53,7 @@ public class BankingSystem {
         System.out.println(hesabinBankasi);
 
 
+
         int secim = 0;
         do {
             System.out.println("*********İşlem Menüsü********");
@@ -59,7 +61,7 @@ public class BankingSystem {
                     "4-Bakiye görüntüleme\n5-Hesap Kapat\n6-Çıkış");
             System.out.print("Seçiminz=");
             secim = oku.nextInt();
-            ;
+
 
             double miktar = 0;
             switch (secim) {

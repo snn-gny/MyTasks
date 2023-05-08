@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="freitag erst">
+    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="Sonntag erst">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/Hayvan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/Hayvan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/HayvanatBahcesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/HayvanatBahcesi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/Kartal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/Kartal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/Soru" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek2/Soru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek3/Soru" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek3/Soru" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/yldzg/IdeaProjects/MyTasks/src/ch32_Abstract/task32/Ornek1",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -50,20 +48,7 @@
       <recent name="ch18_PassByValue_Reference" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HayvanatBahcesi">
-    <configuration name="Banka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch28_ExceptionHandling.task28.task02.Banka" />
-      <module name="MyTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch28_ExceptionHandling.task28.task02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TechnoKitchen">
     <configuration name="HayvanatBahcesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch32_Abstract.task32.Ornek2.HayvanatBahcesi" />
       <module name="MyTasks" />
@@ -103,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task06_a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch28_ExceptionHandling.task28.task06.Task06_a" />
+    <configuration name="TechnoCafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch32_Abstract.task32.Ornek3.TechnoCafe" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch28_ExceptionHandling.task28.task06.*" />
+          <option name="PATTERN" value="ch32_Abstract.task32.Ornek3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TechnoKitchen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch32_Abstract.task32.Ornek3.TechnoKitchen" />
+      <module name="MyTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch32_Abstract.task32.Ornek3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TechnoKitchen" />
+        <item itemvalue="Application.TechnoCafe" />
         <item itemvalue="Application.HayvanatBahcesi" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.OtoGaleri" />
-        <item itemvalue="Application.Task06_a" />
-        <item itemvalue="Application.Banka" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683294205998</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Sonntag erst">
+      <created>1683485683129</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683485683129</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,7 +216,8 @@
     <MESSAGE value="mittwoch" />
     <MESSAGE value="mittwoch second" />
     <MESSAGE value="freitag erst" />
-    <option name="LAST_COMMIT_MESSAGE" value="freitag erst" />
+    <MESSAGE value="Sonntag erst" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sonntag erst" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

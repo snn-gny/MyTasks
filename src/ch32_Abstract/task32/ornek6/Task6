@@ -1,0 +1,21 @@
+                Task 6
+      1.Food isminde abstract bir class olusturun.
+      Bu clasin madeIn() ve taste() isminde iki abstract metodu olsun.
+      Bu classi sweet ve salad isminde iki abstract class extend etsin.
+      ve Salat classinda madeIn() isimde method creat edin.
+      sweet classinda madeIn() isimde method override  edin.
+
+      2.Salad classini extend eden
+      GreekSalad ve
+      SezarSalad isminde iki class olsun.
+      madeIn() methodunu override edilsin.
+
+      3.Sweet classini extend eden
+      Baklava ve
+      Chese Cake class lari olsun.
+      madeIn() methodunu override edilsin.
+
+     4. Runner class da Baklava ve SezarSalad class indan obje create edip
+     objeye ait özelliklerini yazdiriniz
+
+     😊😊

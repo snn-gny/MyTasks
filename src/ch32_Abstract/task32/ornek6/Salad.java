@@ -3,9 +3,11 @@ package ch32_Abstract.task32.ornek6;
 public  abstract  class Salad  extends Food{
 
 
-  public abstract void madeIn();//parant ve child abs. class'larda aynı isimli iki meth tanımlanabilir
+  public abstract void madeIn();//parant ve child abs. class'larda
+    // aynı isimli iki meth tanımlanabilir
 
-public static void abikGbık(){//conc static meth isteğe göre bile override edilemez
+    public static void abikGbık(){
+    //conc static meth isteğe göre bile override edilemez
     System.out.println("a");
 
 }

@@ -1,0 +1,52 @@
+        Task 4
+    1.AbstractBank adinda abstract bir class olusturun.
+    Parametreleri
+        (String )phoneNumber
+        (String )adress,
+        (int) numEmployee,
+        (double) balance
+      fieldleri encapsüle ederek olusturun.
+      balance haric parametreli bir cons. olusturun ve icinde tüm fieldleri set edin.
+      getter ;setter ve to string olusturun.
+
+    2.  abstract methodlari
+       openAccount(),
+       closeAccount()
+    3.  Abstract olmayan
+         witdraw(double parametreli),
+         deposit(double parametreli)
+         loan isminde methodlari da
+         bu class da create edin.
+
+    public abstract void openAccount();
+    public abstract void closeAccount();methodlari creat edin.
+
+    4.ChaseBank WellsFargo ve BOA adinda classslari
+    creat edin ve bu classlar Bank class ini extends etsin.ve methodlar override edilsin.
+     Bu class larin hepsinde ,balance haric parametreli bir cons. olusturun .
+
+    5. BankingSystem isminde  main methodu bulunduran bir class olusturunuz,
+     burada su islemler yapilsin;
+     hesap acma menüsü olusturun.
+     hesap açınız.switch ile banka secenekleri sunun vew secime göre bir hesap acin.
+
+
+
+    6. Hesabi olan kullaniciya
+     yine bir menü ile
+     para yatırma ve
+     çekme
+     kredi işlemi,
+     bakiye görüntüleme ve yazdirma
+     hesap kapat
+     işlemi yapan switch olusturun.
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+                Task 5
+  1. 1.Personel isminde bir abstract class olusturunuz.
+
+        String name ="Nur Hanım"; field olusturun
+
+      public abstract void maasHesapla();//abs. meth
+      public abstract void maasBilgisi();//abs. meth. olusturun
+
+      public  void  sigorta();abstract olmayan method olusturun.
+
+  2.bu classi
+      - Idari personel
+      ve isci classi extend etsin ve methodlar class özelliklerine göre
+      override edilmeli
+      -Idari personel  class inda sigorta methodu
+      istege bagli olarak override edildi.
+
+   3.Runner class i olusturtup
+   Isci ve Idari Personal class larindan birer cons. olusturun.
+   ve methodlari calistirin.
+
+
+
+
+

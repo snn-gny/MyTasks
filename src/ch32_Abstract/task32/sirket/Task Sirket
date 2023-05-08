@@ -1,0 +1,27 @@
+        Task Sirket
+
+    1.Insan isminde Abstract bir class olusturunuz.
+         private String isim;
+         private String soyisim;fieldleri olusturun.
+         Tam parametreli bir cons. olusturun.
+
+
+        public abstract void calis();abstract M.
+
+        public void Bilgilendirme() concret M.
+
+        public void isimDegistir(String isim, String soyisim) methodlarini olusturun.
+
+    2.Bu classi Calisan isminde bir class extend etsin.
+        private int calisanId; adli bir field olusturun.
+        Tam parametreli bir cons. olusturun.
+            calis methodunu override et.
+    3 .Main methodda Insan türünde Calisan class indan
+        ogrenci
+        sekreter
+        danisman adinda objeler olusturun.(polymorphism)
+        ve methodlari cagirin
+
+
+
+

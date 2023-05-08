@@ -12,6 +12,7 @@
      1.c. parametresiz hayvan constructor creat et,
      burada Id yi degistirme mekanizmasi kur.
      1.d getter ve setter lari ve toString olusturun.
+
     2. Ayrica kedi ve kartal isminde iki tane child class olusturunuz
     ve Hayvan Class ina extends edin. Methodlari override edin.
 

@@ -15,15 +15,13 @@ public abstract class Bank {
     }
 
     // hesaptan giden para
-    String withdraw(double gidenPara) {
+    void withdraw(double gidenPara) {
         this.balance -= gidenPara;
-        return gidenPara + " Euro Çekildi...";
     }
 
     // hesaba gelen para
-    String deposit(double gelenPara) {
+    void deposit(double gelenPara) {
         this.balance += gelenPara;
-        return gelenPara + " Euro alindi...";
     }
 
     String loan() {

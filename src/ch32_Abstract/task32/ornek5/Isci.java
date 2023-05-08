@@ -1,7 +1,7 @@
 package ch32_Abstract.task32.ornek5;
 
 public class Isci extends Personel{//abs Personel parent Clas'a extends->concrete child Isci class
-    @Override//mecbur implemen edilemli
+    @Override//mecbur implement edilemli
     public void maasHesapla() {//Personel parent class'dan override abs meth.
         System.out.println("agam marabalara en çok yeymiye 499 gayme verilir..");
     }

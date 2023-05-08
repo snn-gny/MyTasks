@@ -1,0 +1,30 @@
+                Task 3
+      1.  IFood isminde bir interface olusturun.
+      bu classin taste() ve ucret() isminde abstract methodlari olsun.
+
+      2. IFood clasini Palov ,AdanaKebap ve Lahmacun claslari impplement etsin
+
+      3.IFood clasini Palov ,Borsh ,AdanaKebap ve Lahmacun claslari impplement etsin
+
+      4.Palov classinda fry() ve boil()  concrete methodlar bulunsun.
+
+      5.Lahmacun clasinda dough(),topping(), bake()  abstract olmayan methodlar bulunsun.
+
+      6.AdanaKebap classinda marinade(), grill() concrate methodlari bulunsun
+
+      7.Borsh classinda boil() ve eatTomorrow() adinda methodlar olusturun.
+
+      8.TechnoCafe classinda menu() methodu olusturup urunlerin fiyatlarini olusturun.
+          8.a.  IFood Interface inden siparis adinda bir Array list olusturun.
+          8.b.  menu adinda static bir method olusturun
+             (1. Adana Kebap (15)\n2. Lahmacun (5)\n3. " +
+                      "Borsh (8)\n4. Palov (10)\n0. Tamam")
+                      secimde bu secenekleri sunun.
+          8.c.secimleri switch case ile siparis listesine ekleyin.(Siparise göre o class dan obje olusturun )
+
+
+
+
+
+      //TechnoCafe classini extend eden bir TechnoKitchen clasi olusturun.bu classda pisir() isminde bir static method olusturunuz
+      //Data tipi IFood ve parametresi yemek olsun.if sarti ile yemek hangi katogoriye giriyorsa onunun pisirme sekli ve tadini bize getiren dongu olusurunuz
