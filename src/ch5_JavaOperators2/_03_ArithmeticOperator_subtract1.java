@@ -10,7 +10,9 @@ public class _03_ArithmeticOperator_subtract1 {
 
 
         //Kodu aşağıya yazınız.
-
+        int num1=22;
+        int num2=23;
+        System.out.println(num2 - num1);//1
 
     }
 }
