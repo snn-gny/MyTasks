@@ -15,10 +15,12 @@ public class _04_ArithmeticOperator_subtract2 {
         num4 = 10
         Sonuc 30 olmalı.
          */
-
-
-
         //Kodu aşağıya yazınız.
+       int num1 = 90;
+       int num2 = 40;
+       int num3 = 10;
+       int num4 = 10;
+        System.out.println(num1 - num2 - num3 - num4);//30
 
 
     }

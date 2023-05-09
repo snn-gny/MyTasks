@@ -10,7 +10,7 @@ public class Task01 {
             x *= x; // 16*16= 256
             x -= 3; // 256-3= 253
 
-            System.out.println(" x = " + x);
+            System.out.println(" x = " + x);//253
 
             int a = 3;
             double d = 4.5;

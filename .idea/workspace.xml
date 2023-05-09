@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="dienstag">
-      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators2/_03_ArithmeticOperator_subtract1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators2/_03_ArithmeticOperator_subtract1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek4/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch32_Abstract/task32/Ornek4/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators2/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators2/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators2/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators2/Task02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators2/_04_ArithmeticOperator_subtract2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators2/_04_ArithmeticOperator_subtract2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators2/_05_ArithmeticOperator_sum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators2/_05_ArithmeticOperator_sum3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators2/_06_ArithmeticOperator_division1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators2/_06_ArithmeticOperator_division1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators2/_07_ArithmeticOperator_division2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators2/_07_ArithmeticOperator_division2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators2/_08_ArithmeticOperator_multiply1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators2/_08_ArithmeticOperator_multiply1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators2/_09_ArithmeticOperator_multiply2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators2/_09_ArithmeticOperator_multiply2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators2/_10_Arithmetic_Operator_multiply3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators2/_10_Arithmetic_Operator_multiply3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators2/_11_ArithmeticOperator_reminder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators2/_11_ArithmeticOperator_reminder1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators2/_12_ArithmeticOperator_reminder2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators2/_12_ArithmeticOperator_reminder2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators2/_13_ArithmeticOperator_reminder3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators2/_13_ArithmeticOperator_reminder3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,48 +59,9 @@
       <recent name="ch18_PassByValue_Reference" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._03_ArithmeticOperator_subtract1">
-    <configuration name="HayvanatBahcesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch32_Abstract.task32.Ornek2.HayvanatBahcesi" />
-      <module name="MyTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch32_Abstract.task32.Ornek2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TechnoCafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch32_Abstract.task32.Ornek3.TechnoCafe" />
-      <module name="MyTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch32_Abstract.task32.Ornek3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TechnoKitchen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch32_Abstract.task32.Ornek3.TechnoKitchen" />
-      <module name="MyTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch32_Abstract.task32.Ornek3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_02_ArithmeticOperator_sum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators2._02_ArithmeticOperator_sum2" />
+  <component name="RunManager" selected="Application.Task02">
+    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators2.Task02" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +73,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_ArithmeticOperator_subtract1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators2._03_ArithmeticOperator_subtract1" />
+    <configuration name="_10_Arithmetic_Operator_multiply3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators2._10_Arithmetic_Operator_multiply3" />
+      <module name="MyTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch5_JavaOperators2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_11_ArithmeticOperator_reminder1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators2._11_ArithmeticOperator_reminder1" />
+      <module name="MyTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch5_JavaOperators2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_12_ArithmeticOperator_reminder2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators2._12_ArithmeticOperator_reminder2" />
+      <module name="MyTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch5_JavaOperators2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_13_ArithmeticOperator_reminder3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators2._13_ArithmeticOperator_reminder3" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._03_ArithmeticOperator_subtract1" />
-        <item itemvalue="Application._02_ArithmeticOperator_sum2" />
-        <item itemvalue="Application.TechnoKitchen" />
-        <item itemvalue="Application.TechnoCafe" />
-        <item itemvalue="Application.HayvanatBahcesi" />
+        <item itemvalue="Application.Task02" />
+        <item itemvalue="Application._11_ArithmeticOperator_reminder1" />
+        <item itemvalue="Application._12_ArithmeticOperator_reminder2" />
+        <item itemvalue="Application._13_ArithmeticOperator_reminder3" />
+        <item itemvalue="Application._10_Arithmetic_Operator_multiply3" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683632704333</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="dienstag">
+      <created>1683632801314</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1683632801314</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,6 +331,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ch5_JavaOperators2/_10_Arithmetic_Operator_multiply3.java</url>
+          <line>4</line>
+          <properties class="ch5_JavaOperators2._10_Arithmetic_Operator_multiply3" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.InputMismatchException" package="java.util" />

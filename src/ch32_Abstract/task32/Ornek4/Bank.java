@@ -20,7 +20,7 @@ public abstract class Bank {
     }
 
     // hesaba gelen para
-    void deposit(double gelenPara) {
+   void deposit(double gelenPara) {
         this.balance += gelenPara;
     }
 

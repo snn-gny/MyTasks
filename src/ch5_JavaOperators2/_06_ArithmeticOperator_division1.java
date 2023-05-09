@@ -7,11 +7,10 @@ public class _06_ArithmeticOperator_division1 {
         /* Verilen iki int hakkında (num1,  num2),
         İlk int'i ikinci int'e bölün.
         Sonucu yazdırın. */
-
-
-
-
         //Kodu aşağıya yazınız.
+        int num2 = 40;
+        int num3 = 10;
+        System.out.println(num2 / num3);//4
 
     }
 }

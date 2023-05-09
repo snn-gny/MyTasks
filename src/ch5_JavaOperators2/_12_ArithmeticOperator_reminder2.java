@@ -11,7 +11,10 @@ public class _12_ArithmeticOperator_reminder2 {
 
 
         //Kodu aşağıya yazınız.
-
+        int num1=88;
+        int num2=42;
+        int sonuc=num1%num2;
+        System.out.println(sonuc);//4
 
 
     }

@@ -11,8 +11,10 @@ public class _08_ArithmeticOperator_multiply1 {
 
 
         //Kodu aşağıya yazınız.
-
-
-
+        double num1=3;
+        double num2=6;
+        double num3=9;
+        double sonuc=num1*num2*num3;
+        System.out.println(sonuc);//162.0
     }
 }
