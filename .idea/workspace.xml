@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="Montag" />
+    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="dienstag">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +30,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/yldzg/IdeaProjects/MyTasks/src/ch32_Abstract/task32/Ornek1",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -206,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683577366886</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="dienstag">
+      <created>1683616005855</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683616005855</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -215,13 +224,13 @@
     <MESSAGE value="montag" />
     <MESSAGE value="montag last" />
     <MESSAGE value="montag last version" />
-    <MESSAGE value="dienstag" />
     <MESSAGE value="mittwoch" />
     <MESSAGE value="mittwoch second" />
     <MESSAGE value="freitag erst" />
     <MESSAGE value="Sonntag erst" />
     <MESSAGE value="Montag" />
-    <option name="LAST_COMMIT_MESSAGE" value="Montag" />
+    <MESSAGE value="dienstag" />
+    <option name="LAST_COMMIT_MESSAGE" value="dienstag" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
