@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="dienstag">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch34_Iterators/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch34_Iterators/Task01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <recent name="ch18_PassByValue_Reference" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TechnoKitchen">
+  <component name="RunManager" selected="Application._02_ArithmeticOperator_sum2">
     <configuration name="HayvanatBahcesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch32_Abstract.task32.Ornek2.HayvanatBahcesi" />
       <module name="MyTasks" />
@@ -66,19 +66,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch33_Interface.task33.Task03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OtoGaleri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch33_Interface.task33.Task02.OtoGaleri" />
-      <module name="MyTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch33_Interface.task33.Task02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_02_ArithmeticOperator_sum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators2._02_ArithmeticOperator_sum2" />
+      <module name="MyTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch5_JavaOperators2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._02_ArithmeticOperator_sum2" />
         <item itemvalue="Application.TechnoKitchen" />
         <item itemvalue="Application.TechnoCafe" />
         <item itemvalue="Application.HayvanatBahcesi" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.OtoGaleri" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683627285769</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="dienstag">
+      <created>1683632377061</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1683632377061</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -10,7 +10,11 @@ public class _02_ArithmeticOperator_sum2 {
 
         //Kodu aşağıya yazınız.
 
-
+        int a=10;
+        int b=25;
+        int c=20;
+        int d=17;
+        System.out.println(a + b + c + d);//72
 
     }
 }

@@ -8,7 +8,8 @@ import java.util.ListIterator;
 public class Task01 {
     public static void main(String[] args) {
         /*
-        task -> Verilen bir integer listin tek  elemanrının karesini tersten iterator  print eden code create ediniz
+        task -> Verilen bir integer listin tek  eleman
+        larının karesini tersten iterator  print eden code create ediniz
          */
         List<Integer> numberList=new ArrayList<>(Arrays.asList(1,2,3,4,5,6,7,8,9));
         System.out.println("numberList ilk hali = " + numberList);
