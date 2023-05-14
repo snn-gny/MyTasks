@@ -1,8 +1,8 @@
 
                     Task 6
-    1. ReadFile adinda bir Interface olusturun.
+     1. ReadFile adinda bir Interface olusturun.
 
-      1.a.  Burada open ,read,save ve close adinda String tipinde methodlar olusturun.
+        1.a.  Burada open ,read,save ve close adinda String tipinde methodlar olusturun.
 
 
     2. PowePointFile,TxtFile;DMGFile adinda classlar olusturup bunlari ReadFile a
