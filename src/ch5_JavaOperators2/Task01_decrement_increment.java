@@ -1,6 +1,6 @@
 package ch5_JavaOperators2;
 
-public class Task01 {
+public class Task01_decrement_increment {
 	public static void main(String[] args) {
             int x = 4;
             x++; // 4+1=5

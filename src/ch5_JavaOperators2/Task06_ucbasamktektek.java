@@ -1,6 +1,8 @@
 package ch5_JavaOperators2;
 
-public class Task06 {
+import java.util.Scanner;
+
+public class Task06_ucbasamktektek {
 
     public static void main(String[] args) {
 
@@ -14,6 +16,18 @@ public class Task06 {
          *          Girdiginiz sayinin yuzler basamagi : 8
 
          */
+        Scanner input=new Scanner(System.in);
+        int a=input.nextInt();
+
+        int yuzler=a/100;
+        System.out.println(yuzler);
+
+        int onlar=a%100/10;
+        System.out.println(onlar);
+
+        int birler=a%10;
+        System.out.println(birler);
+
 
 
     }

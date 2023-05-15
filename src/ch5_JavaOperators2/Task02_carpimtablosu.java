@@ -1,6 +1,6 @@
 package ch5_JavaOperators2;
 
-public class Task02 {
+public class Task02_carpimtablosu {
 	public static void main(String[] args) {
 		/*
 		 Write a program that prints multiplication table for 1.
