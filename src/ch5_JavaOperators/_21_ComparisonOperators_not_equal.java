@@ -13,5 +13,10 @@ public class _21_ComparisonOperators_not_equal {
         // Kodu aşağıya yazınız.
 
 
+        double d=19.52;
+        double f=14.23;
+        System.out.println(d != f);//true
+
+
     }
 }

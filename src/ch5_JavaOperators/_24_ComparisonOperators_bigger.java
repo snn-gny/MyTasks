@@ -11,6 +11,10 @@ public class _24_ComparisonOperators_bigger {
         Cevabı yazdırın.  */
 
         // Kodu aşağıya yazınız.
+        int a1=120;
+        int a=158;
+        System.out.println(a1 > a);//false
+
 
     }
 }
