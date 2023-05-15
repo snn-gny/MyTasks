@@ -12,6 +12,8 @@ public class _16_ComparisonOperators_small_equal {
 
         // Kodu aşağıya yazınız.
 
-
+    int a=13;
+    int b=13;
+        System.out.println(a <= b);//true
     }
 }

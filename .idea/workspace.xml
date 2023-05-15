@@ -4,26 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="freitag">
-      <change afterPath="$PROJECT_DIR$/src/ch36_task36/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch36_task36/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch36_task36/Task02_Kartvizit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch36_task36/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch36_task36/Task04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch36_task36/Task05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch36_task36/Task06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch36_task36/Task07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch36_task36/Task08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch36_task36/Task09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch36_task36/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch36_task36/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch36_task36/Task12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch36_task36/Task13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch36_task36/TaskProject.java" afterDir="false" />
+    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="sonntag erst">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/Task03/task" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/Task03/task" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Cember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/task01/Cember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch33_Interface/task33/task06/task" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch33_Interface/task33/task06/task" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators/_14_ComparisonOperators_bigger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators/_14_ComparisonOperators_bigger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators/_15_ComparisonOperators_smaller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators/_15_ComparisonOperators_smaller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators/_16_ComparisonOperators_small_equal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators/_16_ComparisonOperators_small_equal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators/_17_ComparisonOperators_equal_equal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators/_17_ComparisonOperators_equal_equal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators/_18_ComparisonOperators_equal_equal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators/_18_ComparisonOperators_equal_equal2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators/_19_ComparisonOperators_equals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators/_19_ComparisonOperators_equals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_JavaOperators/_20_ComparisonOperators_bigger_equal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_JavaOperators/_20_ComparisonOperators_bigger_equal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,29 +37,30 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/yldzg/IdeaProjects/MyTasks/src",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yldzg\IdeaProjects\MyTasks\src" />
       <recent name="C:\Users\yldzg\IdeaProjects\MyTasks\src\ch35_Collections" />
       <recent name="C:\Users\yldzg\IdeaProjects\MyTasks\src\ch32_Abstract\task32\Ornek1" />
       <recent name="C:\Users\yldzg\IdeaProjects\MyTasks\src\ch34_Iterators" />
       <recent name="C:\Users\yldzg\IdeaProjects\MyTasks\src\ch33_Interface" />
-      <recent name="C:\Users\yldzg\IdeaProjects\MyTasks\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="ch3_ScannerClass" />
       <recent name="ch18_PassByValue_Reference" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="FileMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch33_Interface.task33.task06.FileMain" />
+  <component name="RunManager" selected="Application._20_ComparisonOperators_bigger_equal">
+    <configuration name="_16_ComparisonOperators_small_equal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators._16_ComparisonOperators_small_equal" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch33_Interface.task33.task06.*" />
+          <option name="PATTERN" value="ch5_JavaOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch33_Interface.task33.task07.Main" />
+    <configuration name="_17_ComparisonOperators_equal_equal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators._17_ComparisonOperators_equal_equal" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch33_Interface.task33.task07.*" />
+          <option name="PATTERN" value="ch5_JavaOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators2.Task02" />
+    <configuration name="_18_ComparisonOperators_equal_equal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators._18_ComparisonOperators_equal_equal2" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch5_JavaOperators2.*" />
+          <option name="PATTERN" value="ch5_JavaOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_11_ArithmeticOperator_reminder1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators2._11_ArithmeticOperator_reminder1" />
+    <configuration name="_19_ComparisonOperators_equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators._19_ComparisonOperators_equals" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch5_JavaOperators2.*" />
+          <option name="PATTERN" value="ch5_JavaOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_12_ArithmeticOperator_reminder2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators2._12_ArithmeticOperator_reminder2" />
+    <configuration name="_20_ComparisonOperators_bigger_equal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_JavaOperators._20_ComparisonOperators_bigger_equal" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch5_JavaOperators2.*" />
+          <option name="PATTERN" value="ch5_JavaOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.FileMain" />
-        <item itemvalue="Application.Task02" />
-        <item itemvalue="Application._11_ArithmeticOperator_reminder1" />
-        <item itemvalue="Application._12_ArithmeticOperator_reminder2" />
+        <item itemvalue="Application._20_ComparisonOperators_bigger_equal" />
+        <item itemvalue="Application._19_ComparisonOperators_equals" />
+        <item itemvalue="Application._18_ComparisonOperators_equal_equal2" />
+        <item itemvalue="Application._17_ComparisonOperators_equal_equal" />
+        <item itemvalue="Application._16_ComparisonOperators_small_equal" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684086892043</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="sonntag erst">
+      <created>1684089588719</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1684089588719</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -309,7 +306,8 @@
     <MESSAGE value="dienstag" />
     <MESSAGE value="mittwoch" />
     <MESSAGE value="freitag" />
-    <option name="LAST_COMMIT_MESSAGE" value="freitag" />
+    <MESSAGE value="sonntag erst" />
+    <option name="LAST_COMMIT_MESSAGE" value="sonntag erst" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -12,5 +12,9 @@ public class _14_ComparisonOperators_bigger {
         //Kodu aşağıya yazınız.
 
         int a = 13;
+        int b=10;
+
+        System.out.println(a>b);//true
+
     }
 }
