@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="dienstag">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/IfStatement03_CharBHarfKHarfHarfDegil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/IfStatement03_CharBHarfKHarfHarfDegil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/Ifstatement04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/Ifstatement04_kacbasamakli.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/NestedIfSoru01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/NestedIfSoru01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
       <recent name="ch18_PassByValue_Reference" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IfStatement03_CharBHarfKHarfHarfDegil">
+  <component name="RunManager" selected="Application.NestedIfSoru01">
     <configuration name="IfElseIf02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch6_IfStatement_TernaryOperator.IfElseIf02" />
       <module name="MyTasks" />
@@ -95,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_22Ehliyet_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch6_IfStatement_TernaryOperator._22Ehliyet_" />
+    <configuration name="Ifstatement04_kacbasamakli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch6_IfStatement_TernaryOperator.Ifstatement04_kacbasamakli" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch6_IfStatement_TernaryOperator._23" />
+    <configuration name="NestedIfSoru01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch6_IfStatement_TernaryOperator.NestedIfSoru01" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NestedIfSoru01" />
+        <item itemvalue="Application.Ifstatement04_kacbasamakli" />
         <item itemvalue="Application.IfStatement03_CharBHarfKHarfHarfDegil" />
         <item itemvalue="Application.IfElseIf04_Milenyum" />
         <item itemvalue="Application.IfElseIf02" />
-        <item itemvalue="Application._23" />
-        <item itemvalue="Application._22Ehliyet_" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684257938888</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="dienstag">
+      <created>1684259321636</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1684259321636</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

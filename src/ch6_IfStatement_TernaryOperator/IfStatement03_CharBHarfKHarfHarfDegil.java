@@ -20,6 +20,17 @@ public class IfStatement03_CharBHarfKHarfHarfDegil {
 			System.out.println(c+" Kücük harftir");
 		}else System.out.println("Harf Degil");
 
+			//Chatgpt ile ternary cozum:
+		Scanner scanner = new Scanner(System.in);
+		System.out.print("Bir karakter girin: ");
+		char character = scanner.next().charAt(0);
+		scanner.close();
+
+		String message = Character.isUpperCase(character) ? "Büyük Harf"
+				: Character.isLowerCase(character) ? "Küçük Harf"
+				: "Harf Değil";
+
+		System.out.println(message);
 
 	}
 
