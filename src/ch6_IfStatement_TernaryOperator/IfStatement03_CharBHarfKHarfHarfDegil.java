@@ -1,6 +1,6 @@
 package ch6_IfStatement_TernaryOperator;
 
-public class IfStatement03 {
+public class IfStatement03_CharBHarfKHarfHarfDegil {
 
 	public static void main(String[] args) {
 		/*

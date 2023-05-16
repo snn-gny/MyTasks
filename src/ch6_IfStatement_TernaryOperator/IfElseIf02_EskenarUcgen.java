@@ -2,7 +2,7 @@ package ch6_IfStatement_TernaryOperator;
 
 import java.util.Scanner;
 
-public class IfElseIf02 {
+public class IfElseIf02_EskenarUcgen {
 
 	public static void main(String[] args) {
 			/*Kullanıcıdan bir üçgenin  üç kenar uzunluğunu alın eğer üç kenar uzunluğu birbirine eşit ise ekrana

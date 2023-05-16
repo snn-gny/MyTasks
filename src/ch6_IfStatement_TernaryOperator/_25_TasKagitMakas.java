@@ -1,6 +1,6 @@
 package ch6_IfStatement_TernaryOperator;
 
-public class _25 {
+public class _25_TasKagitMakas {
     public static void main(String[] args) {
      //  x = str(input("taş,kağıt,makas")).lower()
      //  y = str(input("taş,kağıt,makas")).lower()
