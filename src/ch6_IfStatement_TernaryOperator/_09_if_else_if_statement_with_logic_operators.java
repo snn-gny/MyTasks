@@ -11,7 +11,10 @@ public class _09_if_else_if_statement_with_logic_operators {
         "String contain orange and length is more then 10" yazdırınız.
         Not: Uzunluk derken ingilizcedeki "length" yani karakter sayısından bahsediliyor.  */
 
+        String str="Orange";
+        if(str=="Orange"){
 
+        }
 
     }
 }

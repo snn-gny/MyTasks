@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="montag">
+    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="dienstag">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_01_if_statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_01_if_statement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_02_if_statement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_02_if_statement2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_03_if_statement3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_03_if_statement3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_04_if_else_if_statement4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_04_if_else_if_statement4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_05_if_else_if_statement5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_05_if_else_if_statement5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_06_if_else_if_statement6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_06_if_else_if_statement6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_07_if_else_if_statement7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_07_if_else_if_statement7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_08_if_else_if_statement8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_08_if_else_if_statement8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_09_if_else_if_statement_with_logic_operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/_09_if_else_if_statement_with_logic_operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -308,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684150727552</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="dienstag">
+      <created>1684213935420</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1684213935420</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,13 +331,13 @@
     <MESSAGE value="freitag erst" />
     <MESSAGE value="Sonntag erst" />
     <MESSAGE value="Montag" />
-    <MESSAGE value="dienstag" />
     <MESSAGE value="mittwoch" />
     <MESSAGE value="freitag" />
     <MESSAGE value="sonntag erst" />
     <MESSAGE value="montag erst" />
     <MESSAGE value="montag" />
-    <option name="LAST_COMMIT_MESSAGE" value="montag" />
+    <MESSAGE value="dienstag" />
+    <option name="LAST_COMMIT_MESSAGE" value="dienstag" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
