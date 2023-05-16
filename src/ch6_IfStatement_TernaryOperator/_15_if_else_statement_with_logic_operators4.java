@@ -9,6 +9,14 @@ public class _15_if_else_statement_with_logic_operators4 {
              Eğer String $ karakterini kapsıyorsa "This is dollar" yazdırın.
              Aksi halde (else) "no money" yazdırın.   */
 
+        String number="€";
+        if (number.contains("€"))
+        {
+            System.out.println("This is euro");
+
+        }else if (number.contains("$")){
+            System.out.println("This is dollar");
+        }
 
 
 

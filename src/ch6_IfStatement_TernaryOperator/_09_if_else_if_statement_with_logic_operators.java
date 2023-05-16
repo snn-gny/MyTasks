@@ -11,10 +11,20 @@ public class _09_if_else_if_statement_with_logic_operators {
         "String contain orange and length is more then 10" yazdırınız.
         Not: Uzunluk derken ingilizcedeki "length" yani karakter sayısından bahsediliyor.  */
 
-        String str="Orange";
-        if(str=="Orange"){
+        String str = "Orange";
 
-        }
+        if ( str.equals("Orange") && str.length() == 6){
+            System.out.println("\"Orange has six letter");}
+        else if (str.equals("Apple") && str.length() == 5) {
+            System.out.println("\"Apple has five letter");}
+        else if (str.contains("Orange")&& str.length()>10){
+            System.out.println("\"String contain orange and length is more then 10\"");}
+        else System.out.println("yanlis giris");
+
+
+
+
+
 
     }
 }
