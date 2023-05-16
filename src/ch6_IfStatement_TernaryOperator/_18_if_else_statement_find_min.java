@@ -11,6 +11,11 @@ public class _18_if_else_statement_find_min {
           Örn: 10-11-12 > 10  */
 
 
+        int num1=18;
+        int num2=25;
+        int num3=55;
+        //todo ne yapilcak?
+
 
 
 

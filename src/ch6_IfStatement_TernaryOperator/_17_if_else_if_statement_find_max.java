@@ -10,7 +10,10 @@ public class _17_if_else_if_statement_find_max {
          Not: Num1 = 18 veya Num2 = 25 değerini değiştirdiğinizde kodunuz maksimum değeri yazmalıdır.
          Tüm farklı senaryolarda maksimum sayıyı yazdırmalıdır  */
 
-
+            int num1=18;
+            int num2=25;
+            int num3=55;
+            //todo ne yapilcak?
 
 
 
