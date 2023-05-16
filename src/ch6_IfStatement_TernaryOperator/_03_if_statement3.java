@@ -8,9 +8,8 @@ public class _03_if_statement3 {
           Eğer str1, str2'ye eşit ise "String 1 is equal to String 2" yazdırınız.
           Eğer str1, str2'ye eşit değil ise "String 1 is NOT equal to String 2" yazdırınız. */
 
-
-
-
-
+        String y="Yildiz";
+        String s="Sinan;";
+        if (y.equals(s)){System.out.println("String 1 is NOT equal to String 2");}//String 1 is NOT equal to String 2
     }
 }

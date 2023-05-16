@@ -10,6 +10,21 @@ public class _08_if_else_if_statement8 {
             Eğer, 33'ü 4'e böldüğünüzde kalan 1'e eşit ise "Remainder is 1" yazdırınız.
             Aksi halde (else) "Reminder is 0" yazdırınız.  */
 
+        int a=33;
+        if (a%4==3){
+            System.out.println("Remainder is 3");
+        }else if (a%4==2){
+            System.out.println("Remainder is 2");}
+        else if (a%4==1) {System.out.println("Remainder is 1");}
+
+
+
+
+
+
+
+
+
 
 
     }
