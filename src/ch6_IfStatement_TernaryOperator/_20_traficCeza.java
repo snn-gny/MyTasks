@@ -1,6 +1,6 @@
 package ch6_IfStatement_TernaryOperator;
 
-public class _20_ticket_price {
+public class _20_traficCeza {
 
     public static void main(String[] args) {
 
