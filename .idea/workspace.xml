@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="dienstag">
+      <change afterPath="$PROJECT_DIR$/src/cxh_38_Lambda/Lambda1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cxh_38_Lambda/Lambda2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cxh_38_Lambda/Lambda3WithMetodcreat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cxh_38_Lambda/Lambda4Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cxh_38_Lambda/Lambda5Reduce.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/Ifstatement04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/Ifstatement04_kacbasamakli.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/NestedIfSoru01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch6_IfStatement_TernaryOperator/NestedIfSoru01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +42,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/yldzg/IdeaProjects/MyTasks/src&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -56,13 +59,13 @@
       <recent name="ch18_PassByValue_Reference" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NestedIfSoru01">
-    <configuration name="IfElseIf02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch6_IfStatement_TernaryOperator.IfElseIf02" />
+  <component name="RunManager" selected="Application.Lambda5Reduce">
+    <configuration name="Lambda1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cxh_38_Lambda.Lambda1" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch6_IfStatement_TernaryOperator.*" />
+          <option name="PATTERN" value="cxh_38_Lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseIf04_Milenyum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch6_IfStatement_TernaryOperator.IfElseIf04_Milenyum" />
+    <configuration name="Lambda2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cxh_38_Lambda.Lambda2" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch6_IfStatement_TernaryOperator.*" />
+          <option name="PATTERN" value="cxh_38_Lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfStatement03_CharBHarfKHarfHarfDegil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch6_IfStatement_TernaryOperator.IfStatement03_CharBHarfKHarfHarfDegil" />
+    <configuration name="Lambda3WithMetodcreat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cxh_38_Lambda.Lambda3WithMetodcreat" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch6_IfStatement_TernaryOperator.*" />
+          <option name="PATTERN" value="cxh_38_Lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ifstatement04_kacbasamakli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch6_IfStatement_TernaryOperator.Ifstatement04_kacbasamakli" />
+    <configuration name="Lambda4Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cxh_38_Lambda.Lambda4Map" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch6_IfStatement_TernaryOperator.*" />
+          <option name="PATTERN" value="cxh_38_Lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedIfSoru01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch6_IfStatement_TernaryOperator.NestedIfSoru01" />
+    <configuration name="Lambda5Reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cxh_38_Lambda.Lambda5Reduce" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch6_IfStatement_TernaryOperator.*" />
+          <option name="PATTERN" value="cxh_38_Lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NestedIfSoru01" />
-        <item itemvalue="Application.Ifstatement04_kacbasamakli" />
-        <item itemvalue="Application.IfStatement03_CharBHarfKHarfHarfDegil" />
-        <item itemvalue="Application.IfElseIf04_Milenyum" />
-        <item itemvalue="Application.IfElseIf02" />
+        <item itemvalue="Application.Lambda5Reduce" />
+        <item itemvalue="Application.Lambda4Map" />
+        <item itemvalue="Application.Lambda3WithMetodcreat" />
+        <item itemvalue="Application.Lambda2" />
+        <item itemvalue="Application.Lambda1" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684259321636</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="dienstag">
+      <created>1684260231746</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1684260231746</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
