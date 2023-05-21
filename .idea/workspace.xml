@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="dienstag">
-      <change afterPath="$PROJECT_DIR$/src/cxh_38_Lambda/Lambda1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cxh_38_Lambda/Lambda2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cxh_38_Lambda/Lambda3WithMetodcreat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cxh_38_Lambda/Lambda4Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cxh_38_Lambda/Lambda5Reduce.java" afterDir="false" />
+    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="sonntag">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cxh_38_Lambda/Lambda5Reduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cxh_38_Lambda/Lambda5Reduce.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -375,7 +371,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684260231746</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="sonntag">
+      <created>1684689673202</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1684689673202</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -404,7 +407,8 @@
     <MESSAGE value="montag erst" />
     <MESSAGE value="montag" />
     <MESSAGE value="dienstag" />
-    <option name="LAST_COMMIT_MESSAGE" value="dienstag" />
+    <MESSAGE value="sonntag" />
+    <option name="LAST_COMMIT_MESSAGE" value="sonntag" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
