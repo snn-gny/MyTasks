@@ -13,6 +13,17 @@ public class _06_Array_contains {
 
         //Kodu aşağıya yazınız..
 
+        String[] meyve = {"Apple", "Orange", "Banana", "Pineapple"};
+        boolean sonuc = false;
+        for (int i = 0; i < meyve.length; i++) {
 
+            if (meyve[i].equals("Apple")) {
+                sonuc = true;
+                break;
+            } else {
+                sonuc = false;
+            }
+
+        } System.out.println("sonuc = " + sonuc);
     }
 }

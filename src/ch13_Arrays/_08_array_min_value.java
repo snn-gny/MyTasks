@@ -1,5 +1,7 @@
 package ch13_Arrays;
 
+import java.util.Arrays;
+
 public class _08_array_min_value {
 
     public static void main(String[] args) {
@@ -10,6 +12,20 @@ public class _08_array_min_value {
          */
 
         // Kodu aşağıya yazınız..
+
+        int [] arr ={14 , 197 , 54 , 21};
+        Arrays.sort(arr);
+        System.out.println("enKucukSayi: "+ (arr[0]));
+
+        int enKucukSayi =arr[0];
+
+        for (int i = 0; i < arr.length; i++) {
+            if (enKucukSayi  > arr[i]){
+                enKucukSayi  = arr[i] ;
+        }
+
+        }
+        System.out.println("enKucukSayi = " + enKucukSayi);
 
 
     }

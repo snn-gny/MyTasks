@@ -10,6 +10,19 @@ public class _02_Create_array2 {
      */
         // Kodu aşağıya yazınız..
 
+        int [] sayilar = new int[5];
+        sayilar[0] =13;
+        sayilar[1] =15;
+        sayilar[2] =14;
+        sayilar[3] =16;
+        sayilar[4] =16;
+
+        for(int i=0;i<sayilar.length;i++){
+            System.out.println( sayilar[i]);
+        }
+
+
+
 
     }
 }

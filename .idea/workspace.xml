@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="sonntag" />
+    <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="Mitwoch">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_Arrays/_01_Create_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_Arrays/_01_Create_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_Arrays/_02_Create_array2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_Arrays/_02_Create_array2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_Arrays/_03_Create_array3_int.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_Arrays/_03_Create_array3_int.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_Arrays/_04_Create_Array_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_Arrays/_04_Create_Array_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_Arrays/_05_Array_with_for_if.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_Arrays/_05_Array_with_for_if.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_Arrays/_06_Array_contains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_Arrays/_06_Array_contains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_Arrays/_07_array_max_value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_Arrays/_07_array_max_value.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_Arrays/_08_array_min_value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_Arrays/_08_array_min_value.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_Arrays/_09_array_second_max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_Arrays/_09_array_second_max.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +54,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/UMSCHULUNG/LF-ZQ1a Oracle Certified Associate Java (OCA) 26.06.2023-01.09.2023/JAVA TR UYGULAMALARI",
+    "last_opened_file_path": "C:/Users/Student/Desktop/Java Projeler/MyTasks",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -64,13 +75,13 @@
       <recent name="ch18_PassByValue_Reference" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task16_KelimeOyunu01">
-    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12_methodCreation.Task11" />
+  <component name="RunManager" selected="Application._07_array_max_value">
+    <configuration name="_05_Array_with_for_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13_Arrays._05_Array_with_for_if" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12_methodCreation.*" />
+          <option name="PATTERN" value="ch13_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12_methodCreation.Task12" />
+    <configuration name="_06_Array_contains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13_Arrays._06_Array_contains" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12_methodCreation.*" />
+          <option name="PATTERN" value="ch13_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12_methodCreation.Task13" />
+    <configuration name="_07_array_max_value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13_Arrays._07_array_max_value" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12_methodCreation.*" />
+          <option name="PATTERN" value="ch13_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12_methodCreation.Task14" />
+    <configuration name="_08_array_min_value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13_Arrays._08_array_min_value" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12_methodCreation.*" />
+          <option name="PATTERN" value="ch13_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task16_KelimeOyunu01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12_methodCreation.Task16_KelimeOyunu01" />
+    <configuration name="_09_array_second_max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13_Arrays._09_array_second_max" />
       <module name="MyTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12_methodCreation.*" />
+          <option name="PATTERN" value="ch13_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task16_KelimeOyunu01" />
-        <item itemvalue="Application.Task14" />
-        <item itemvalue="Application.Task13" />
-        <item itemvalue="Application.Task12" />
-        <item itemvalue="Application.Task11" />
+        <item itemvalue="Application._07_array_max_value" />
+        <item itemvalue="Application._08_array_min_value" />
+        <item itemvalue="Application._09_array_second_max" />
+        <item itemvalue="Application._06_Array_contains" />
+        <item itemvalue="Application._05_Array_with_for_if" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684698848518</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Mitwoch">
+      <created>1689750951255</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1689750951255</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -438,7 +456,8 @@
     <MESSAGE value="montag" />
     <MESSAGE value="dienstag" />
     <MESSAGE value="sonntag" />
-    <option name="LAST_COMMIT_MESSAGE" value="sonntag" />
+    <MESSAGE value="Mitwoch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mitwoch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -11,6 +11,25 @@ public class _03_Create_array3_int {
 
         //Kodu aşağıya yazınız..
 
+        int [] sayilar =new int[5];
+        sayilar[0]=25;
+        sayilar[1]=30;
+        sayilar[2]=30;
+        sayilar[3]=35;
+        sayilar[4]=100;
+
+        int toplam=0;
+
+        for (int i=0;i< sayilar.length;i++){
+       toplam+= sayilar[i];
+        }
+            System.out.println("toplam = " + toplam);
+
+
+
+
+
+
 
     }
 }

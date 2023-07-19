@@ -13,5 +13,18 @@ public class _04_Create_Array_String {
         // Kodu aşağıya yazınız..
 
 
+        //String [] sehirler ={"new jersey" , "new york", "boston","California"};
+        String [] sehirler = new String[4];
+        sehirler[0] ="new jersey" ;
+        sehirler[1] ="new york";
+        sehirler[2] ="boston";
+        sehirler[3] ="California";
+
+        for (int i=0;i<sehirler.length;i++){
+            System.out.println(sehirler[i]);
+        }
+        System.out.println();
+        System.out.println("sehirler arraydeki eleman sayisi = " + sehirler.length);
+
     }
 }
