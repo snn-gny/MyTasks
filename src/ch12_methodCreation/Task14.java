@@ -1,5 +1,7 @@
 package ch12_methodCreation;
 
+import java.util.Scanner;
+
 public class Task14 {
 
     public static void main(String[] args) {
@@ -27,10 +29,19 @@ public class Task14 {
     toplam = 536.0
     */
 
-
-
+        System.out.println("calculateOvertime(09.00,20.00,40,1.8) = " + calculateOvertime(09.00, 20.00, 40, 1.8));
 
     }
+
+public static double calculateOvertime(double startHour, double endHour, double hourlyRate, double overtimeRate) {
+    double totalHours = endHour - startHour;                                                    //toplamHours = bitişHour - startHour;
+    double regularHours = Math.min(totalHours, 8);                                          // toplamHours = bitişHour - startHour;
+    double overtimeHours = totalHours - regularHours;                                      //  fazla mesaiSaat = toplamSaat - normalSaat;
+    double regularPay = regularHours * hourlyRate;                                           //  normalÖdeme = normalHours saatlik Ücret;
+    double overtimePay = overtimeHours * hourlyRate * overtimeRate;               // fazla mesaiÖdeme = fazla mesaiSaatsaatlikÜcret fazla mesaiÜcreti;
+    double totalPay = regularPay + overtimePay;                                               //  toplamÖdeme = normalÖdeme + fazla mesaiÖdemesi;
+    return totalPay;                                                                                         // return toplam Ödeme;
+}
 
 
 }

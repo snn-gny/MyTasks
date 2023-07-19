@@ -9,6 +9,10 @@ public class _15_String_methods17 {
 
         //Kodu aşağıya yazınız.
 
+        String s = "apple";
+
+        System.out.println(s.toUpperCase() +s );
+
 
     }
 }

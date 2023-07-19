@@ -11,19 +11,9 @@ public class Task09 {
    toplamını bulan code create ediniz.
     */
 
-
-
-
-        ArrayList<Integer>arrayList=new ArrayList<>(List.of(2,4,6,7,9));
-
-        int kareToplam=0;
-
-        for (int each:arrayList) {
-                kareToplam+=each*each;
-        }
-        System.out.println("kareToplam = " + kareToplam);
-
     }
+
+
 
 }
 

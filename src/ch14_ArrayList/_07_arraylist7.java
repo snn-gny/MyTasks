@@ -22,35 +22,35 @@ public class _07_arraylist7 {
         return 6 ve 7 olmalı
      */
 
-    public static void main(String[] args) {
+//    public static void main(String[] args) {
+//
+//
+//        common_values();
+//        System.out.println("common_values() = " + common_values());//[7, 7, 6, 6, 7, 7]
+//
+//
+//    }
+//
+//    private static ArrayList<Integer> common_values() {
+//
+//        ArrayList<Integer> arrayList1 = new ArrayList<Integer>(List.of(8, 7, 9, 6, 7));
+//        ArrayList<Integer> arrayList2 = new ArrayList<Integer>(List.of(6, 7, 12, 3, 1));
+//        ArrayList<Integer> arrayList3 = new ArrayList<Integer>();
+//
+//        for (int i = 0; i < arrayList1.size(); i++) {
+//            for (int j = 0; j < arrayList2.size(); j++) {
+//
+//                if (Objects.equals(arrayList1.get(i), arrayList2.get(j))) {
+//                    arrayList3.add(arrayList1.get(i));
+//                    arrayList3.add(arrayList2.get(j));
+//
+//                }
+//            }
+//        }
+//
+//        return arrayList3;
 
-
-        common_values();
-        System.out.println("common_values() = " + common_values());//[7, 7, 6, 6, 7, 7]
-
-
-    }
-
-    private static ArrayList<Integer> common_values() {
-
-        ArrayList<Integer> arrayList1 = new ArrayList<Integer>(List.of(8, 7, 9, 6, 7));
-        ArrayList<Integer> arrayList2 = new ArrayList<Integer>(List.of(6, 7, 12, 3, 1));
-        ArrayList<Integer> arrayList3 = new ArrayList<Integer>();
-
-        for (int i = 0; i < arrayList1.size(); i++) {
-            for (int j = 0; j < arrayList2.size(); j++) {
-
-                if (Objects.equals(arrayList1.get(i), arrayList2.get(j))) {
-                    arrayList3.add(arrayList1.get(i));
-                    arrayList3.add(arrayList2.get(j));
-
-                }
-            }
-        }
-
-        return arrayList3;
-
-    }
+  //  }
 
 
 }

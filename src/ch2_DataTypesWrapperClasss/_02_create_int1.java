@@ -11,5 +11,8 @@ public class _02_create_int1 {
 
          int sayi=15;
         System.out.println("sayi = " + sayi);
+
+        int zahl=15;
+        System.out.println("zahl = " + zahl);
     }
 }

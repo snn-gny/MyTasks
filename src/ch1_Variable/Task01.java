@@ -43,18 +43,21 @@ public class Task01 {
 
         //  Soru-1 :   konsola      "Hello ", "World  \ /"        seklinde yazdırınız
 
+        System.out.println("Hello \", \"World  \\ /");
+
 
 
 
         // Soru-2 : Pazartesi kelimesini her harfini ayrı bir satira gelecek sekilde yazdırınız.
-
+        System.out.println("P\n" +"a\n" + "z\n"+"a\n"+"r\n"+"t\n"+"e\n"+"s\n"+"i\n");
 
         //Soru-3 : "Java" ile hayat cok 'afilli'   yazdırınız
+        System.out.println(" \"Java\" ile hayat cok 'afilli' ");
 
 
         //Soru-4 : "Basari" gayreti 'sever'  yazdırınız sonraki "Clarusway ile java cok kolay ..." ifadesi  3 satır sonra ve satır basından 1 tab ileride yazılsın.
 
-
+        System.out.println(" \"Basari\" gayreti 'sever' "+ "\n \n \n "+"\tClarusway ile java cok kolay..." );
 
 
    /*
@@ -72,6 +75,11 @@ public class Task01 {
 	             65
 	             Yuzme FUTBOL Java ...
 		 */
+
+        System.out.println("Sinan Günay");
+        System.out.println("\n181");
+        System.out.println("\n95");
+        System.out.println("\nspazieren gehen, Tennis,Fußball, Basketball, Schwimmen,...  ");
 
 
 

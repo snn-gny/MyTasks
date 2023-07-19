@@ -9,6 +9,11 @@ public class _05_String_methods02 {
 
         //Kodu aşağıya yazınız.
 
+        String s  = "Sprint Planning";
+
+        System.out.println(s.length());
+
+
 
     }
 }

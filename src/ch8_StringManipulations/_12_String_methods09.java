@@ -9,5 +9,9 @@ public class _12_String_methods09 {
 
         //Kodu buraya yazınız.
 
+        String s = "apple";
+
+        System.out.println(s.contains("App"));
+
     }
 }

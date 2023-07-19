@@ -12,11 +12,19 @@ public class _26_Scanner5 {
 
         //Kodu aşağıya  yazınız.
 
-        Scanner scn=new Scanner(System.in);
+/*        Scanner scn=new Scanner(System.in);
         System.out.println("10 sene önce nerde yasiyordun?");
-        String sehir=scn.next();
+        String sehir=scn.next();*/
 
+        String sehir;
 
+        Scanner input=new Scanner(System.in);
+
+        System.out.print("10 sene önceki yaşadığıniz şehri yazıniz:  ");
+
+        sehir=input.next();
+
+        System.out.println("10 sene önceki yaşadığıniz şehir =  " + sehir);
 
 
     }

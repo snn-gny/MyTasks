@@ -1,5 +1,7 @@
 package ch12_methodCreation;
 
+import java.util.Scanner;
+
 public class Task12 {
 
     public static void main(String[] args) {
@@ -25,9 +27,22 @@ public class Task12 {
     Çıktı : true
     */
 
+        Scanner input = new Scanner(System.in);
+        System.out.print("Bir E-mail adresi giriniz: ");
+        String email =input.nextLine();
+
+        System.out.println("validateEmail(email) = " + validateEmail(email));
 
     }
 
+    private static boolean validateEmail(String email) {
+        int atIndex = email.indexOf('@');
+        int dotIndex = email.lastIndexOf('.');
 
-
+        if (atIndex > 0 && dotIndex > atIndex + 1 && dotIndex < email.length() - 1) {
+            return true;
+        } else {
+            return false;
+        }
+    }
 }

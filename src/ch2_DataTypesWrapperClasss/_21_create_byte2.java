@@ -11,6 +11,9 @@ public class _21_create_byte2 {
         byte y=-4;
         System.out.println("y = " + y);
 
+        byte x=-4;
+        System.out.println(x);
+
 
     }
 }

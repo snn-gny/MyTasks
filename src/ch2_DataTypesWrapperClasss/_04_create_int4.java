@@ -11,5 +11,8 @@ public class _04_create_int4 {
         int sayi=-6500;
         System.out.println("sayi = " + sayi);
 
+        int zahl_2=-6500;
+        System.out.println("zahl_2 = " + zahl_2);
+
     }
 }

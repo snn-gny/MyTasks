@@ -12,8 +12,8 @@ public class _13_create_float3 {
         float f=3.55f;
         System.out.println("f = " + f);
 
-
-
+float zahl_2= 3.55f;
+        System.out.println("zahl_2 = " + zahl_2);
 
     }
 }

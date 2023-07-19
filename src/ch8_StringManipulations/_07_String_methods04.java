@@ -10,6 +10,9 @@ public class _07_String_methods04 {
 
         //Kodu aşağıya yazınız.
 
+        String s = ("OraNge");
+
+        System.out.println(s.toLowerCase());
 
 
 

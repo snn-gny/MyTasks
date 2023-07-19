@@ -1,5 +1,6 @@
 package ch10_forLoop;
 
+import java.util.OptionalInt;
 import java.util.Scanner;
 
 public class Task04_Nested {
@@ -27,6 +28,34 @@ public class Task04_Nested {
 
             şekli print eden code create ediniz
          */
+        Scanner input = new Scanner(System.in);
+        System.out.print("Bir sayı giriniz: ");
+        int n = input.nextInt();
+
+
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n; j++) {
+                if (i == j) {
+                    System.out.print("1 ");
+                } else {
+                    System.out.print("0 ");
+                }
+            }
+            System.out.println();
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+/*
 
         Scanner input = new Scanner(System.in);
         System.out.println("bir sayi giriniz size sekil yapalim");
@@ -75,13 +104,10 @@ public class Task04_Nested {
     }
 
 
+*/
 
 
 
 
 
-
-
-
-    }
 }

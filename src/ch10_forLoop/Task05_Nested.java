@@ -1,5 +1,7 @@
 package ch10_forLoop;
 
+import java.util.Scanner;
+
 public class Task05_Nested {
     public static void main(String[] args) {
         /*
@@ -13,8 +15,15 @@ public class Task05_Nested {
 
        5x5
          */
+        Scanner input = new Scanner(System.in);
+        System.out.print("Bir sayı giriniz: ");
+        int n = input.nextInt();
 
-
-
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n; j++) {
+                System.out.print(i * j + "  ");
+            }
+            System.out.println();
+        }
     }
 }

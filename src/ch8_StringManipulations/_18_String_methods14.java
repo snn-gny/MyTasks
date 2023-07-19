@@ -10,6 +10,10 @@ public class _18_String_methods14 {
 
         //Kodu aşağıya yazınız.
 
+        String s1 = "      Techno Study          ";
+
+        System.out.println(s1.trim());
+
 
 
 

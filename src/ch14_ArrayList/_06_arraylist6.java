@@ -16,32 +16,32 @@ public class _06_arraylist6 {
     Return 2 olmalı.
      */
 
-    public static void main(String[] args) {
-
-        hillNum();
-        System.out.println("hillNum() = " + hillNum());//2
-
-    }
-
-    private static int hillNum() {
-        
-        
-        ArrayList<Integer>arrayList=new ArrayList<>(List.of(5 ,4 ,6, 2, 1));
-
-        int hillNum=0;
-
-        for (int i = 1; i < arrayList.size()-1; i++) {
-            if (arrayList.get(i)<arrayList.get(i-1) && arrayList.get(i)>arrayList.get(i+1)){
-
-                hillNum+= arrayList.get(i);
-            }
-            
-        }
-        
-
-        return hillNum;
-        
-    }
-
+//    public static void main(String[] args) {
+//
+//        hillNum();
+//        System.out.println("hillNum() = " + hillNum());//2
+//
+//    }
+//
+//    private static int hillNum() {
+//
+//
+//        ArrayList<Integer>arrayList=new ArrayList<>(List.of(5 ,4 ,6, 2, 1));
+//
+//        int hillNum=0;
+//
+//        for (int i = 1; i < arrayList.size()-1; i++) {
+//            if (arrayList.get(i)<arrayList.get(i-1) && arrayList.get(i)>arrayList.get(i+1)){
+//
+//                hillNum+= arrayList.get(i);
+//            }
+//
+//        }
+//
+//
+//        return hillNum;
+//
+//    }
+//
 
 }

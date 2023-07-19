@@ -1,5 +1,7 @@
 package ch8_StringManipulations;
 
+import java.util.Scanner;
+
 public class Task09 {
 
     public static void main(String[] args) {
@@ -11,6 +13,15 @@ public class Task09 {
 		     	INPUT :istanbul
 				OUTPUT :ista
 	    */
+
+        String kelime ;
+
+        Scanner input= new Scanner(System.in);
+
+        System.out.println("bir kelime yaziniz: ");
+        kelime= input.nextLine();
+
+        System.out.println(kelime.substring(0,kelime.length()/2));
 
 
     }

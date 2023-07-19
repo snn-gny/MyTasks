@@ -9,7 +9,9 @@ public class _20_create_byte1 {
 
         //Kodu aşağıya yazınız.
         byte b=5;
-        System.out.println("b = " + b);
+
+        byte a=5;
+        System.out.println(a);
 
     }
 }

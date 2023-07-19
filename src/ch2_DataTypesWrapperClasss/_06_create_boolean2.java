@@ -10,6 +10,9 @@ public class _06_create_boolean2 {
         //Kodu aşağıya yazınız.
         boolean f=false;
         System.out.println("f = " + f);
+        
+        boolean wert_1=false;
+        System.out.println("wert_1 = " + wert_1);
 
     }
 }

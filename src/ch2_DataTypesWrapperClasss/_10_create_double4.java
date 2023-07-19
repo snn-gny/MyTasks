@@ -11,6 +11,9 @@ public class _10_create_double4 {
 
         double x=550.24;
         System.out.println("x = " + x);
+        
+        double wert_5=550.24;
+        System.out.println("wert_5 = " + wert_5);
 
 
     }

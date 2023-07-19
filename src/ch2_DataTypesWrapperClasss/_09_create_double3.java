@@ -11,6 +11,10 @@ public class _09_create_double3 {
 
         double e=10.01;
         System.out.println("e = " + e);
+        
+        
+        double wert_4=10.01;
+        System.out.println("wert_4 = " + wert_4);
 
     }
 

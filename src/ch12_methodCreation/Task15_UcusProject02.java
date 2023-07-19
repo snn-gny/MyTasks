@@ -2,6 +2,35 @@ package ch12_methodCreation;
 
 import java.util.Scanner;
 
+
+/**
+ *  Bir uçuş rezervasyon sistemi için aşağıdaki sorunu çözen bir Java programı yazmanız isteniyor.
+ * Uygulama, kullanıcıdan uçuş için gerekli bilgileri alacak ve uçuş ücretini hesaplayacak.
+ * Kullanıcıdan aşağıdaki bilgiler istenecek:
+ * Uçmak istediği şehir (B, C veya D)
+ * Yaşı
+ * Gidiş-dönüş veya tek yönlü uçuş seçimi (Evet/Hayır)
+ * Uçuş ücreti, aşağıdaki kriterlere göre hesaplanacak:
+ * Şehir seçimine göre:
+ * B: Ücret = 500 * 0.1
+ * C: Ücret = 700 * 0.1
+ * D: Ücret = 900 * 0.1
+ * Yaşa göre:
+ * 0-12 yaş arası: Yaş katsayısı = 0.5
+ * 12-24 yaş arası: Yaş katsayısı = 0.9
+ * 65 yaş ve üstü: Yaş katsayısı = 0.7
+ * Diğer durumlar için yaş katsayısı = 1.0
+ * Gidiş-dönüş seçeneğine göre:
+ * Evet: Yön katsayısı = 0.8 * 2
+ * Hayır: Yön katsayısı = 1.0
+ * Uçuş ücreti = Şehir ücreti * Yaş katsayısı * Yön katsayısı
+ * Uygulama, hesaplanan uçuş ücretini ekrana yazdıracak.
+ * İki farklı yöntemle bu sorunu çözen iki farklı sınıf (Task15_UcusProject02 ve Task15_UcusProject03)
+ * oluşturmanız bekleniyor. Her iki sınıf da kullanıcının girişlerine göre uçuş ücretini hesaplamalı ve
+ * sonucu ekrana yazdırmalıdır.
+  * Sorununuz bu şekilde. Her iki projeyi de inceleyerek, kullanıcıdan alınan bilgilere göre
+ * uçuş ücretini doğru bir şekilde hesaplayan ve ekrana yazdıran bir Java programı yazmalısınız.
+ */
 public class Task15_UcusProject02 {
     static Scanner scan = new Scanner(System.in);
     static double ucret;

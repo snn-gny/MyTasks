@@ -11,11 +11,20 @@ public class _24_Scanner3 {
           O meyveyi yazdırınız.   */
 
         //Kodu aşağıya  yazınız.
-        String s;
+        /*String s;
         Scanner scn=new Scanner(System.in);
         System.out.println("bir meyve giriniz");
         s= scn.next();
-        System.out.println("s = " + s);
+        System.out.println("s = " + s);*/
+
+        String meyve;
+
+        Scanner input=new Scanner(System.in);
+        System.out.print("Lütfen sevdiginiz bir meyveyi yaziniz: ");
+
+        meyve=input.next();
+
+        System.out.println("Sevdiginiz meyve = " + meyve);
 
     }
 }

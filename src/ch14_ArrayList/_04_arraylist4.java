@@ -20,31 +20,31 @@ public class _04_arraylist4 {
         cevap: "yellow" , "red" , "yellow" , "red" , "yellow"
      */
 
-    public static void main(String[] args) {
-
-        changeInArraylist();//[yellow, red, yellow, red, yellow]
-
-
-
-    }
-
-    private static ArrayList<String> changeInArraylist() {
-
-
-        ArrayList<String> arrayList= new ArrayList<>(List.of("yellow" , "red" , "blue" , "red" , "blue"));
-
-        for (int i = 0; i < arrayList.size(); i++) {
-
-            if (arrayList.get(i).equals("blue")){
-
-                arrayList.set(arrayList.indexOf("blue"),"yellow");
-            }
-        }
-        System.out.println("arrayList = " + arrayList);
-
-        return arrayList;
-
-    }
-
-
+//    public static void main(String[] args) {
+//
+//        changeInArraylist();//[yellow, red, yellow, red, yellow]
+//
+//
+//
+//    }
+//
+//    private static ArrayList<String> changeInArraylist() {
+//
+//
+//        ArrayList<String> arrayList= new ArrayList<>(List.of("yellow" , "red" , "blue" , "red" , "blue"));
+//
+//        for (int i = 0; i < arrayList.size(); i++) {
+//
+//            if (arrayList.get(i).equals("blue")){
+//
+//                arrayList.set(arrayList.indexOf("blue"),"yellow");
+//            }
+//        }
+//        System.out.println("arrayList = " + arrayList);
+//
+//        return arrayList;
+//
+//    }
+//
+//
 }

@@ -21,42 +21,42 @@ public class C14_flatMap {
    ve ardından oluşturulan tüm akışları tek bir akışa birleştirir.
 
  */
-    public static void main(String[] args) throws IOException {
-
-        //TASK 01 --> esintiler java.txt dosyasindaki farkli kelimeleri  print ediniz..
-        Path esintiPath = Path.of("C:\\Users\\pc\\IdeaProjects\\DeJavaTutorial\\src\\javadan-esintiler");
-        //yukarida erisilecek dosyanin path i tanimlandi
-        Stream<String> stream =  Files.lines(esintiPath);
-        System.out.println(" //TASK 01 --> esintiler java.txt dosyasindaki farkli kelimeleri  print ediniz..");
-
-        System.out.println(stream.map(t -> t.split(" "))//burdan sonraki akis herbir satir dis array herbir kelime ic array
-                .flatMap(Arrays::stream)//eskisi gibi bir stream eldee ettik
-                .distinct()
-                .collect(Collectors.toList()));
-
-
-        //TASK 02 --> .txt dosyasindaki tum kelimeleri natural order  print ediniz..
-
-
-
-        //TASK 03 --> .txt dosyasinda "basari" kelimesinin kac kere gectigini buyuk harf kucuk harf bagımsız print ediniz.
-
-
-
-        //TASK 04 --> .txt dosyasinda "a" harfi gecen kelimelerin sayisini print eden  programi create ediniz.
-
-
-        //TASK 05 --> .txt dosyasinda icinde "a" harfi gecen kelimeleri print ediniz.
-
-
-        //TASK 06 --> .txt dosyasinda kac /farklı harf kullanildigini print ediniz.
-
-
-        //TASK 07 --> .txt dosyasinda kac farkli kelime kullanildigini print ediniz.
-
-
-        //TASK 08 --> .txt dosyasinda  farkli kelimeleri print ediniz
-
-
-    }
+//    public static void main(String[] args) throws IOException {
+//
+//        //TASK 01 --> esintiler java.txt dosyasindaki farkli kelimeleri  print ediniz..
+//        Path esintiPath = Path.of("C:\\Users\\pc\\IdeaProjects\\DeJavaTutorial\\src\\javadan-esintiler");
+//        //yukarida erisilecek dosyanin path i tanimlandi
+//        Stream<String> stream =  Files.lines(esintiPath);
+//        System.out.println(" //TASK 01 --> esintiler java.txt dosyasindaki farkli kelimeleri  print ediniz..");
+//
+//        System.out.println(stream.map(t -> t.split(" "))//burdan sonraki akis herbir satir dis array herbir kelime ic array
+//                .flatMap(Arrays::stream)//eskisi gibi bir stream eldee ettik
+//                .distinct()
+//                .collect(Collectors.toList()));
+//
+//
+//        //TASK 02 --> .txt dosyasindaki tum kelimeleri natural order  print ediniz..
+//
+//
+//
+//        //TASK 03 --> .txt dosyasinda "basari" kelimesinin kac kere gectigini buyuk harf kucuk harf bagımsız print ediniz.
+//
+//
+//
+//        //TASK 04 --> .txt dosyasinda "a" harfi gecen kelimelerin sayisini print eden  programi create ediniz.
+//
+//
+//        //TASK 05 --> .txt dosyasinda icinde "a" harfi gecen kelimeleri print ediniz.
+//
+//
+//        //TASK 06 --> .txt dosyasinda kac /farklı harf kullanildigini print ediniz.
+//
+//
+//        //TASK 07 --> .txt dosyasinda kac farkli kelime kullanildigini print ediniz.
+//
+//
+//        //TASK 08 --> .txt dosyasinda  farkli kelimeleri print ediniz
+//
+//
+//    }
 }

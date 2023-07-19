@@ -12,11 +12,20 @@ public class _25_Scanner4 {
 
         //Kodu aşağıya  yazınız.
 
-        Scanner scn=new Scanner(System.in);
+       /* Scanner scn=new Scanner(System.in);
         System.out.println("Arabanizda kac kapi vardir?");
         int sayi=scn.nextInt();
 
-        System.out.println("araba kapi sayisi = " + sayi);
+        System.out.println("araba kapi sayisi = " + sayi);*/
+
+        int kapi;
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("Arabanızdaki kapı sayısını giriniz: ");
+
+        kapi = input.nextInt();
+
+        System.out.println("Arabanızdaki kapı sayısı =  " + kapi);
 
 
     }

@@ -11,6 +11,9 @@ public class _17_create_char1 {
 
         char c='a';
         System.out.println("c = " + c);
+        
+        char chaar='a';
+        System.out.println("chaar = " + chaar);
 
     }
 }

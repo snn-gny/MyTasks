@@ -11,6 +11,9 @@ public class _12_create_float2 {
 
         float f=123.3365f;
         System.out.println("f = " + f);
+        
+        float zahl_1=123.3365f;
+        System.out.println("zahl_1 = " + zahl_1);
 
 
     }

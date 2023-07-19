@@ -9,6 +9,10 @@ public class _16_String_methods12 {
 
         //Kodu aşağıya yazınız.
 
+        String s = "Florida";
+
+        System.out.println(s.indexOf('o'));
+
 
     }
 }

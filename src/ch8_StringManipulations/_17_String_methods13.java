@@ -10,6 +10,12 @@ public class _17_String_methods13 {
 
         //Kodu aşağıya yazınız.
 
+        String s = ("Thank you");
+
+        System.out.println(s.indexOf('y'));
+
+
+
 
     }
 }

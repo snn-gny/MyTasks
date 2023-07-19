@@ -8,7 +8,14 @@ public class Odev03 {
 
          */
 
+        int summe=0;
+        for (int i = 0; i < 10; i++) {
 
+            summe +=i;
+
+        }
+
+        System.out.println("İlk 10 doğal sayının toplamı: " + summe);
 
     }
 }

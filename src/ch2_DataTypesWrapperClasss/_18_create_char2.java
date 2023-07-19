@@ -11,5 +11,11 @@ public class _18_create_char2 {
 
         char z='z';
         System.out.println("z = " + z);
+        
+        char zahl_1='z';
+        System.out.println("zahl_1 = " + zahl_1);
+
+        char x ='z';
+        System.out.println("x = " + x);
     }
 }

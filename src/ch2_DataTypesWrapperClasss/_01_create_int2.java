@@ -12,6 +12,9 @@ public class _01_create_int2 {
 
          int sayi=100;
         System.out.println("sayi = " + sayi);
+        
+        int i=100;
+        System.out.println("i = " + i);
 
 
     }

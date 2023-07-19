@@ -21,9 +21,17 @@ public class Task11 {
     İpucu harfleri değiştirin ve ekrana yazdırın.
     */
 
+        String s ="javayı severim";
+
+        System.out.println(hackerDili(s));
 
     }
 
+    private static String hackerDili(String s) {
+        s = "javayı severim";
+
+        return s.replace("s","5").replace("a","4").replace("e","3").replace("i","1").replace("o","0");
+    }
 
 
 }

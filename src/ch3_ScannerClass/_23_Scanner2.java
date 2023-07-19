@@ -11,12 +11,19 @@ public class _23_Scanner2 {
           Bu sayıyı yazdırın.   */
 
         //Kodu aşağıya  yazınız.
-         int s;
+/*         int s;
         Scanner scn=new Scanner(System.in);
         System.out.println("bir sayi giriniz");
         s= scn.nextInt();
-        System.out.println("s = " + s);
+        System.out.println("s = " + s);*/
 
+        int q;
+        Scanner scan=new Scanner(System.in);
+
+        System.out.print("Lütfen bir sayi giriniz:  ");
+
+        q=scan.nextInt();
+        System.out.println("Sayi = " + q);
 
 
     }

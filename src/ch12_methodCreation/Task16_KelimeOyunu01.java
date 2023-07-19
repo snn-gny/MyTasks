@@ -1,11 +1,13 @@
 package ch12_methodCreation;
 
 
+import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+
 import java.util.Scanner;
 
 
 public class Task16_KelimeOyunu01 {
-    //her metodda kullaancağım için aşağıdaki scan ve veriable'leri  classlevel'a aldım
+    //her metodda kullanacağım için aşağıdaki scan ve veriable'leri  classlevel'a aldım
     static int oyuncu = 1;//oyuncuyu önce 1 yani 1. oyuncu olarak başlangıç değeri ile atadım sonra oyuncu değiştireceğim zaman oyuncu=1 yerine oyuncu=2 atayacağım
     static int puan1 = 0;
     static int puan2 = 0;
@@ -100,34 +102,6 @@ public class Task16_KelimeOyunu01 {
         else
             oyuncu = 1;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 }

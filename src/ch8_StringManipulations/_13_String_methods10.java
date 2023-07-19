@@ -9,6 +9,10 @@ public class _13_String_methods10 {
 
         //Kodu aşağıya yazınız.
 
+        String s = "orange";
+
+        System.out.println(s.equals("Apple"));
+
 
     }
 }

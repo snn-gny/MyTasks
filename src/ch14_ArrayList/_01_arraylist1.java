@@ -19,43 +19,14 @@ public class _01_arraylist1 {
 
          */
 
+
+
     public static void main(String[] args) {
 
 
-        System.out.println("getCountt() = " + getCountt());
-
 
     }
 
-    private static int getCountt() {
+ }
 
 
-        ArrayList<String> names = new ArrayList<>(List.of("Ayse", "Fatma", "Hayriye", "Cevriye", "Ayse", "Gul", "Fethiye", "Ayse"));
-
-        int count = 0;
-        String tekrarlayan = "";
-
-
-        for (int i = 0; i < names.size(); i++) {
-            for (int j = i + 1; j < names.size(); j++) {
-                if (names.get(i).equals(names.get(j))) {
-                   if (!tekrarlayan.contains(names.get(i))) {
-                       tekrarlayan += names.get(i) + " ";
-
-                  }
-                    count++;
-
-                }
-
-            }
-
-        }
-        System.out.println("tekrarlayan = " + tekrarlayan);
-
-
-        return count;
-
-
-
-    }
-}

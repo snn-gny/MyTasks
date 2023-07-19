@@ -15,8 +15,38 @@ public class Task06_Nested {
          */
 
         Scanner input = new Scanner(System.in);
-        System.out.println("Bir boyut giriniz");
-        int boyut = input.nextInt();
+        System.out.println("Lütfen seklin boyutunu giriniz: ");
+        int n = input.nextInt();
+
+        for (int i = 1; i <=n; i++) {
+            for (int j = 1; j <=i ; j++) {
+
+                System.out.print("* ");
+
+            }
+            System.out.println();
+        }
+
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //        for (int i = 1; i <=boyut ; i++) {
 //            //i kac geliyorsa icteki loop a icteki loop i kadar calisir
@@ -78,8 +108,9 @@ public class Task06_Nested {
 //
 //        }
 //asiye hanim
+/*
 
-        for(int i = 1; i<=4;i++){
+        for(int i = 1; i<=n;i++){
             for (int j =1; j<=i ;j++){
              //   System.out.println("* ");
                 System.out.print(j + " " );
@@ -91,6 +122,7 @@ public class Task06_Nested {
 
     }
 }
+*/
 
 
 

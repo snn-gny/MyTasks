@@ -1,5 +1,7 @@
 package ch10_forLoop;
 
+import java.util.Scanner;
+
 public class Task08_Nested {
     public static void main(String[] args) {
 
@@ -13,6 +15,7 @@ public class Task08_Nested {
         şeklini yazdırınız.  65=A'nın ascıı değeri
 
         */
+/*
 
         int harf=65;
         //ASCII degeri
@@ -27,10 +30,23 @@ public class Task08_Nested {
             }
             System.out.println();
         }
+*/
 
 
+        Scanner input = new Scanner(System.in);
+        System.out.println("Lütfen bir sayi giriniz: ");
+        int x = input.nextInt();
+
+        int s=65;
 
 
+        for (int i = 0; i < x; i++) {
+            for (int j = 0; j <i ; j++) {
+
+                System.out.print( (char) (s+j)+"  " );
+            }
+            System.out.println();
+        }
 
 
 

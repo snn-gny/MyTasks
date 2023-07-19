@@ -12,12 +12,30 @@ public class Task07_Nested {
         output : a sayısı : 4
          */
 
+        Scanner input = new Scanner(System.in);
+        System.out.println("Lütfen bir metin giriniz: ");
+        String text = input.nextLine();
+
+        System.out.println("Lütfen sayisini ögrenmek istediginiz karakteri  giriniz: ");
+        char c =input.next().charAt(0);
+
+        int count=0;
+
+        for (int i = 0; i <=text.length()-1 ; i++) {
+            if (text.charAt(i) == c) {
+                count++; //
+            }
+
+
+        }
+        System.out.println("girdigin metin  "+text+"'de / da  "+c+" harfi "+count + " tane var");
+/*
         Scanner input =new Scanner(System.in);
         System.out.println("bir cumle gir");
         String cumle= input.nextLine();
 
         System.out.println("hangi karakterin sayisini istiyorsun");
-        //char da aliabilirsin String de
+        //char da aliabilirsin String de*/
 
 
         //1. yol
@@ -28,7 +46,7 @@ public class Task07_Nested {
         //bize bunu saglayan ozellik index. yani index de dolasiyoruz
         //i sifirdanan baslamali. cunku index 0 dan baslar
 
-        int count=0; //bizden bir sayi istiyor dolasiyla boos bir int variable create edildi
+        //int count=0; //bizden bir sayi istiyor dolasiyla boos bir int variable create edildi
         //sayac mantigi
 
 //        for (int i = 0; i <= cumle.length()-1 ; i++) {//cumlenin basindan sonuna kadar yani uzunluk isin icine girecek lenght()
@@ -42,6 +60,7 @@ public class Task07_Nested {
  //       System.out.println("girdigin cumle  "+cumle+" de  "+harf+" harfi "+count + " tane var");
 
 
+/*
 
         //2. yol
         String harfString=input.next();
@@ -58,6 +77,7 @@ public class Task07_Nested {
 
 
 
+*/
 
 
 

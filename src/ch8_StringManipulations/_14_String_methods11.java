@@ -10,6 +10,10 @@ public class _14_String_methods11 {
 
         //Kodu aşağıya yazınız.
 
+        String s = "apple";
+
+        System.out.println(s.equals("apple"));
+
 
     }
 }

@@ -10,6 +10,9 @@ public class _16_create_short3 {
         //Kodu aşağıya yazınız.
         short s= -100;
         System.out.println("s = " + s);
+        
+        short zahl_2=-100;
+        System.out.println("zahl_2 = " + zahl_2);
 
 
     }
