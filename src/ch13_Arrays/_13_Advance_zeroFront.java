@@ -1,5 +1,7 @@
 package ch13_Arrays;
 
+import java.util.Arrays;
+
 public class _13_Advance_zeroFront {
 
     public static void main(String[] args) {
@@ -18,6 +20,25 @@ public class _13_Advance_zeroFront {
 
         // Kodu aşağıya yazınız..
 
+        int[] arr = {2, 0, 0, 1, 0};
+        moveZerosToFront(arr);
 
+        System.out.println(Arrays.toString(arr));
+    }
+
+    public static void moveZerosToFront(int[] nums) {
+        int index = nums.length - 1;
+
+        // Sıfır olmayan sayıları dizinin sonuna doğru taşır
+        for (int i = nums.length - 1; i >= 0; i--) {
+            if (nums[i] != 0) {
+                nums[index--] = nums[i];
+            }
+        }
+
+        // Kalan boş alanlara sıfırları yerleştirir
+        while (index >= 0) {
+            nums[index--] = 0;
+        }
     }
 }
