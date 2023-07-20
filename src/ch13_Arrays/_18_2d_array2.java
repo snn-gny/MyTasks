@@ -14,5 +14,14 @@ public class _18_2d_array2 {
         //Kodu aşağıya yazınız.
 
 
+        int [][] arr2D = {{5,2,1} , {10,2,3,6} , {1,2}};
+            int toplam=0;
+        for (int i = 0; i < arr2D.length; i++) {
+            for (int j = 0; j < arr2D[i].length; j++) {
+               toplam +=arr2D[i][j];
+
+            }
+        }
+        System.out.println("toplam = " + toplam);
     }
 }

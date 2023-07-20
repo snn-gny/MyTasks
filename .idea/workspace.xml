@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="359a2c45-6a78-4cca-8c35-99120eb968f0" name="Changes" comment="Donnerstag1.1">
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_Arrays/_14_String_method_replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_Arrays/_14_String_method_replace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_Arrays/_15_Word_Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_Arrays/_15_Word_Count.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13_Arrays/_16_Advance_Array_get_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_Arrays/_16_Advance_Array_get_sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_Arrays/_17_2d_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_Arrays/_17_2d_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_Arrays/_18_2d_array2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_Arrays/_18_2d_array2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch13_Arrays/_19_2d_Array_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13_Arrays/_19_2d_Array_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "com.obiscr.chatgpt.settings.ChatGPT"
+    "settings.editor.selected.configurable": "com.obiscr.chatgpt.settings.GPT3-3.5-Turbo"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -70,46 +69,7 @@
       <recent name="ch18_PassByValue_Reference" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._16_Advance_Array_get_sum">
-    <configuration name="_12_Array_no14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13_Arrays._12_Array_no14" />
-      <module name="MyTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch13_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_13_Advance_zeroFront" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13_Arrays._13_Advance_zeroFront" />
-      <module name="MyTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch13_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_14_String_method_replace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13_Arrays._14_String_method_replace" />
-      <module name="MyTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch13_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._19_2d_Array_3">
     <configuration name="_15_Word_Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch13_Arrays._15_Word_Count" />
       <module name="MyTasks" />
@@ -136,13 +96,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_17_2d_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13_Arrays._17_2d_Array" />
+      <module name="MyTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch13_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_18_2d_array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13_Arrays._18_2d_array2" />
+      <module name="MyTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch13_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_19_2d_Array_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13_Arrays._19_2d_Array_3" />
+      <module name="MyTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch13_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._19_2d_Array_3" />
+        <item itemvalue="Application._18_2d_array2" />
+        <item itemvalue="Application._17_2d_Array" />
         <item itemvalue="Application._16_Advance_Array_get_sum" />
         <item itemvalue="Application._15_Word_Count" />
-        <item itemvalue="Application._14_String_method_replace" />
-        <item itemvalue="Application._13_Advance_zeroFront" />
-        <item itemvalue="Application._12_Array_no14" />
       </list>
     </recent_temporary>
   </component>
@@ -449,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689841736530</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Donnerstag1.1">
+      <created>1689844487595</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1689844487595</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -610,6 +616,108 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="049b38">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/ch13_Arrays/_17_2d_Array.java" />
+                </list>
+              </option>
+              <option name="id" value="049b38" />
+              <option name="initiateTms" value="1689845351685" />
+              <option name="request" value="    /*&#10;    Şu şekilde olan bir 2D int Array'î oluşturunuz.  [{2,3,2} , {4,1,5} , {7,2,5}]&#10;    Bütün 2'leri 6'yla değiştirin.&#10;    Array'i yazdırınız.&#10;     */&#10;&#10;    //Kodu aşağıya yazınız.&#10;&#10;    int [][] arr2D = {{2,3,2} , {4,1,5} , {7,2,5}};&#10;&#10;   // String[] numbers = arr[0].replace(&amp;quot;$&amp;quot;, &amp;quot;&amp;quot;).split(&amp;quot; &amp;quot;);&#10;    &#10;    int [][]arr2d1;&#10;    arr2d1 = arr2D[0][0].replace(2,6);&#10;&#10;    System.out.println(&amp;quot;arr2d1 = &amp;quot; + arr2d1);&#10;&#10;&#10;}  hata nedir? düzelt&#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error in the code is due to the incorrect usage of the `replace()` method. The `replace()` method is used to replace characters in a string, not in an integer value. Additionally, you are trying to assign the result of `replace()` to a 2D array, which is not valid.&#10;&#10;To replace all occurrences of 2 with 6 in the 2D array, you need to iterate over each element of the array and check if it is equal to 2. If it is, then replace it with 6. Here's the corrected code:&#10;&#10;```java&#10;int[][] arr2D = {{2, 3, 2}, {4, 1, 5}, {7, 2, 5}};&#10;&#10;for (int i = 0; i &lt; arr2D.length; i++) {&#10;    for (int j = 0; j &lt; arr2D[i].length; j++) {&#10;        if (arr2D[i][j] == 2) {&#10;            arr2D[i][j] = 6;&#10;        }&#10;    }&#10;}&#10;&#10;// Print the modified array&#10;for (int i = 0; i &lt; arr2D.length; i++) {&#10;    for (int j = 0; j &lt; arr2D[i].length; j++) {&#10;        System.out.print(arr2D[i][j] + &quot; &quot;);&#10;    }&#10;    System.out.println();&#10;}&#10;```&#10;&#10;This code will replace all occurrences of 2 with 6 in the 2D array and then print the modified array.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1689845361598" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/ch13_Arrays/_17_2d_Array.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="50764d">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/ch13_Arrays/_17_2d_Array.java" />
+                </list>
+              </option>
+              <option name="id" value="50764d" />
+              <option name="initiateTms" value="1689844923639" />
+              <option name="request" value="Şu şekilde olan bir 2D int Array'î oluşturunuz. [{2,3,2} , {4,1,5} , {7,2,5}]" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To create a 2D int array with the given values [{2,3,2} , {4,1,5} , {7,2,5}], you can initialize the array as follows:&#10;&#10;```java&#10;int[][] arr2D = {{2, 3, 2}, {4, 1, 5}, {7, 2, 5}};&#10;```&#10;&#10;Here, we are using double curly braces to initialize the 2D array with the given values. Each inner array represents a row in the 2D array.&#10;&#10;Let me know if you need any further assistance." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1689844930862" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/ch13_Arrays/_17_2d_Array.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="6cd2ff">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/ch13_Arrays/_17_2d_Array.java" />
+                </list>
+              </option>
+              <option name="id" value="6cd2ff" />
+              <option name="initiateTms" value="1689845456205" />
+              <option name="request" value="int[][] arr2D = {{2, 3, 2}, {4, 1, 5}, {7, 2, 5}};&#10;&#10;for (int i = 0; i &lt; arr2D.length; i++) {&#10;    for (int j = 0; j &lt; arr2D[i].length; j++) {&#10;        if (arr2D[i][j] == 2) {&#10;            arr2D[i][j] = 6;&#10;        }&#10;    }&#10;}&#10;&#10;// Print the modified array&#10;for (int i = 0; i &lt; arr2D.length; i++) {&#10;    for (int j = 0; j &lt; arr2D[i].length; j++) {&#10;        System.out.print(arr2D[i][j] + &quot; &quot;);&#10;    }&#10;    System.out.println();&#10;}   bu kodun önce algoritmasini bana anlat" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Certainly! Let me explain the algorithm of the given code:&#10;&#10;1. First, we initialize a 2D integer array `arr2D` with the values `{{2, 3, 2}, {4, 1, 5}, {7, 2, 5}}`.&#10;&#10;2. We use two nested `for` loops to iterate over each element of the array. The outer loop iterates over the rows of the array (`i` represents the row index), and the inner loop iterates over the columns of each row (`j` represents the column index).&#10;&#10;3. Inside the inner loop, we check if the current element `arr2D[i][j]` is equal to 2 using the condition `arr2D[i][j] == 2`.&#10;&#10;4. If the condition is true, we replace the value of `arr2D[i][j]` with 6 using the assignment statement `arr2D[i][j] = 6`.&#10;&#10;5. After modifying the array, we use another set of nested `for` loops to print the modified array. The logic is similar to the previous loops, where we iterate over each element of the array and print it.&#10;&#10;6. The `System.out.print(arr2D[i][j] + &quot; &quot;)` statement prints each element of the array followed by a space.&#10;&#10;7. The `System.out.println()` statement is used to print a new line after printing all the elements of a row.&#10;&#10;By following this algorithm, the code replaces all occurrences of 2 with 6 in the 2D array and then prints the modified array.&#10;&#10;Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1689845466576" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/ch13_Arrays/_17_2d_Array.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="6f2f1d">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/ch13_Arrays/_18_2d_array2.java" />
+                </list>
+              </option>
+              <option name="id" value="6f2f1d" />
+              <option name="initiateTms" value="1689845934444" />
+              <option name="request" value="    public static void main(String[] args) {&#10;&#10;        /*&#10;        Şu şekilde olan bir 2D int Array'i oluşturunuz.  [{5,2,1} , {10,2,3,6} , {1,2}]&#10;        2D array'de olan elemanları toplayınız.&#10;        toplamı yazdırınız.&#10;        Sonuç 32 olmalıdır.&#10;         */&#10;&#10;        //Kodu aşağıya yazınız.&#10;&#10;&#10;        int [][] arr2D = {{5,2,1} , {10,2,3,6} , {1,2}};&#10;            int toplam=0;&#10;        for (int i = 0; i &lt; arr2D.length; i++) {&#10;            for (int j = 0; j &lt; arr2D[i].length; j++) {&#10;               toplam=arr2D[i][j];&#10;&#10;            } &#10;        }&#10;    }" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To calculate the sum of all elements in the given 2D array `arr2D` and print the result, you can modify the code as follows:&#10;&#10;```java&#10;public static void main(String[] args) {&#10;&#10;    /*&#10;    Şu şekilde olan bir 2D int Array'i oluşturunuz.  [{5,2,1} , {10,2,3,6} , {1,2}]&#10;    2D array'de olan elemanları toplayınız.&#10;    toplamı yazdırınız.&#10;    Sonuç 32 olmalıdır.&#10;     */&#10;&#10;    int[][] arr2D = {{5, 2, 1}, {10, 2, 3, 6}, {1, 2}};&#10;    int toplam = 0;&#10;&#10;    for (int i = 0; i &lt; arr2D.length; i++) {&#10;        for (int j = 0; j &lt; arr2D[i].length; j++) {&#10;            toplam += arr2D[i][j];&#10;        }&#10;    }&#10;&#10;    System.out.println(&quot;Toplam: &quot; + toplam);&#10;}&#10;```&#10;&#10;In this code, we have added a variable `toplam` to store the sum of all elements. We initialize it to 0 before the loop.&#10;&#10;Inside the nested `for` loops, we use the `+=` operator to add each element `arr2D[i][j]` to the `toplam` variable.&#10;&#10;After the loops, we use `System.out.println()` to print the sum of all elements.&#10;&#10;When you run this code, it will calculate the sum of all elements in the 2D array and print the result, which should be 32.&#10;&#10;Let me know if you need any further assistance!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1689845945998" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/ch13_Arrays/_18_2d_array2.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MyTasks$Task06.ic" NAME="Task06 Coverage Results" MODIFIED="1689106678642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
