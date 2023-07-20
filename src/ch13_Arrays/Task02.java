@@ -7,6 +7,27 @@ public class Task02 {
     public static void main(String[] args) {
         //task-> girilen int array elemanları toplamını print eden code create ediniz.
 
+        Scanner scan = new Scanner(System.in);
+        System.out.print("Lütfen arrayde olmasini istediginiz eleman sayini yaziniz:  ");
+        int eleman = scan.nextInt();
+
+        int [] arr =new int[eleman];
+        System.out.println("Arrayinizdeki eleman sayisi =  " + Arrays.toString(arr));
+
+        for (int i = 0; i < eleman; i++) {
+            System.out.println(i+1 +". nci degeri gir");
+            arr[i]=scan.nextInt();//boyut kadar kullanicindan deger alinarak arr array inin elemanlari atandi
+        }
+        System.out.println("Arrayiniz:  " + Arrays.toString(arr));
+
+        int toplam=0;
+        for (int i = 0; i < eleman; i++) {
+            toplam +=arr[i];
+        }
+        System.out.println("Arrayinizdeki sayilarin toplami :  " + toplam);
+    }
+}
+/*
         Scanner input=new Scanner(System.in);
 
         System.out.println("kac elamanli array istersin");
@@ -27,3 +48,4 @@ public class Task02 {
 
     }
 }
+*/
