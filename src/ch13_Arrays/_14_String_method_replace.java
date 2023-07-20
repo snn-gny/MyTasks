@@ -11,6 +11,15 @@ public class _14_String_method_replace {
         HellK WKrld
          */
 
+        String [] s ={"Hello World"};
 
-    }
+        for (int i = 0; i < s.length; i++) {
+            s[i] = s[i].replace('o', 'K');
+        }
+
+        System.out.println(s[0]);
+
+        }
+
+
 }
